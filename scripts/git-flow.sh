@@ -14,13 +14,6 @@ ensure_repo() {
   run_git rev-parse --is-inside-work-tree >/dev/null
 }
 
-ensure_clean_enough() {
-  if [[ -n "$(run_git status --porcelain)" ]]; then
-    echo "Working tree is not clean. Commit or stash changes first." >&2
-    exit 1
-  fi
-}
-
 ensure_branch_exists() {
   local branch="$1"
   if ! run_git show-ref --verify --quiet "refs/heads/$branch"; then
@@ -52,7 +45,6 @@ sync_branch_to_remote() {
 cmd_setup() {
   ensure_repo
   run_git fetch "$REMOTE_NAME" --prune
-
   sync_main_from_remote
 
   for branch in "${PRIMARY_BRANCHES[@]:1}"; do
@@ -71,15 +63,18 @@ cmd_record() {
   ensure_repo
   local message="$1"
   shift
+
   if [[ "$#" -gt 0 ]]; then
     run_git add -- "$@"
   else
     run_git add -A
   fi
+
   if [[ -z "$(run_git diff --cached --name-only)" ]]; then
     echo "No staged changes to commit." >&2
     exit 1
   fi
+
   run_git commit -m "$message"
 }
 
@@ -92,7 +87,10 @@ cmd_start() {
   case "$lane" in
     feat|feature) base_branch="feat" ;;
     fix|bugfix) base_branch="fix" ;;
-    *) echo "Unknown lane '$lane'. Use feat or fix." >&2; exit 1 ;;
+    *)
+      echo "Unknown lane '$lane'. Use feat or fix." >&2
+      exit 1
+      ;;
   esac
 
   ensure_branch_exists "$base_branch"
@@ -136,7 +134,6 @@ cmd_finish() {
 cmd_sync() {
   ensure_repo
   run_git fetch "$REMOTE_NAME" --prune
-
   sync_main_from_remote
 
   for branch in dev feat fix; do
@@ -177,7 +174,7 @@ main() {
       cat <<'EOF'
 Usage:
   scripts/git-flow.sh setup
-  scripts/git-flow.sh record "commit message"
+  scripts/git-flow.sh record "commit message" [files...]
   scripts/git-flow.sh start <feat|fix> <request-slug>
   scripts/git-flow.sh finish
   scripts/git-flow.sh sync
