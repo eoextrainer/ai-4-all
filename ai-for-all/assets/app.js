@@ -51,7 +51,7 @@ const siteCopy = {
         "You receive a tailored reply for public sessions or custom delivery.",
         "Private cohorts can be scoped for business, education or community use cases."
       ],
-      languageOptions: ["English", "French", "Spanish"],
+      languageOptions: ["English", "French", "Spanish", "Italian"],
       audienceOptions: ["SMB owners", "Job seekers", "Schools or nonprofits", "Students", "Non-technical professionals", "General public"],
       formatOptions: ["Discovery session", "Case Studies session", "Workshop session", "Weekly pass", "Private group cohort"],
       goalOptions: ["Get started confidently", "Improve a workflow", "Launch a small AI project", "Upskill a team", "Explore a custom program"],
@@ -65,7 +65,7 @@ const siteCopy = {
       stats: [
         { value: "3", label: "teaching formats" },
         { value: "5€", label: "entry point" },
-        { value: "3", label: "languages" }
+        { value: "4", label: "languages" }
       ],
       heroPills: ["Beginner-first", "Online + onsite", "Commercial delivery", "Multilingual"],
       heroSideTitle: "Designed for conversion and trust",
@@ -234,7 +234,7 @@ const siteCopy = {
         "Vous recevez une r\u00e9ponse adapt\u00e9e aux sessions publiques ou \u00e0 une formule sur mesure.",
         "Les cohortes priv\u00e9es peuvent \u00eatre cadr\u00e9es pour l'entreprise, l'\u00e9ducation ou le secteur associatif."
       ],
-      languageOptions: ["Anglais", "Fran\u00e7ais", "Espagnol"],
+      languageOptions: ["Anglais", "Fran\u00e7ais", "Espagnol", "Italien"],
       audienceOptions: ["Dirigeants de PME", "Personnes en recherche d'emploi", "\u00c9coles ou associations", "\u00c9tudiants", "Professionnels non techniques", "Grand public"],
       formatOptions: ["Session Discovery", "Session Cas d'usage", "Session Atelier", "Pass hebdomadaire", "Cohorte priv\u00e9e"],
       goalOptions: ["D\u00e9marrer avec confiance", "Am\u00e9liorer un flux de travail", "Lancer un petit projet IA", "Former une \u00e9quipe", "Explorer un programme sur mesure"],
@@ -417,7 +417,7 @@ const siteCopy = {
         "Recibes una respuesta adaptada a sesiones p\u00fablicas o una entrega personalizada.",
         "Las cohortes privadas pueden dise\u00f1arse para empresa, educaci\u00f3n o impacto comunitario."
       ],
-      languageOptions: ["Ingl\u00e9s", "Franc\u00e9s", "Espa\u00f1ol"],
+      languageOptions: ["Ingl\u00e9s", "Franc\u00e9s", "Espa\u00f1ol", "Italiano"],
       audienceOptions: ["Due\u00f1os de pymes", "Personas que buscan empleo", "Escuelas u ONG", "Estudiantes", "Profesionales no t\u00e9cnicos", "P\u00fablico general"],
       formatOptions: ["Sesi\u00f3n Discovery", "Sesi\u00f3n Case Studies", "Sesi\u00f3n Workshop", "Pase semanal", "Cohorte privada"],
       goalOptions: ["Empezar con confianza", "Mejorar un flujo de trabajo", "Lanzar un peque\u00f1o proyecto de IA", "Actualizar a un equipo", "Explorar un programa a medida"],
@@ -557,6 +557,189 @@ const siteCopy = {
         lead: "La confirmaci\u00f3n se ha dirigido al buz\u00f3n del curso. Puedes volver al sitio principal o seguir explorando las p\u00e1ginas por audiencia mientras esperas la respuesta.",
         primary: "Volver al sitio principal",
         secondary: "Ver p\u00e1ginas de audiencia"
+      }
+    }
+  },
+  it: {
+    brand: "AI per Tutti",
+    navHome: "Panoramica",
+    navFormats: "Formati",
+    navAudiences: "Pubblici",
+    navRegistration: "Iscrizione",
+    footer: "Formazione commerciale sull'IA per principianti, team, scuole e organizzazioni mission-driven.",
+    actions: {
+      register: "Iscriviti ora",
+      audiences: "Vedi i percorsi per pubblico",
+      brochure: "Visualizza i formati",
+      backHome: "Torna al sito principale",
+      audiencePage: "Apri pagina"
+    },
+    labels: {
+      results: "Risultati attesi",
+      fit: "Pubblico ideale",
+      deliverables: "Consegne commerciali",
+      process: "Svolgimento tipico",
+      registrationTitle: "Prenota un posto o richiedi un gruppo",
+      registrationLead: "Ogni richiesta viene inviata a sosthengj@gmail.com. Usa questo modulo per singoli, gruppi privati, scuole o sessioni nonprofit.",
+      firstName: "Nome",
+      lastName: "Cognome",
+      email: "Email",
+      phone: "Telefono o WhatsApp",
+      preferredLanguage: "Lingua preferita",
+      organisation: "Organizzazione o scuola",
+      role: "Ruolo",
+      audience: "Pubblico",
+      format: "Formato preferito",
+      goals: "Obiettivo principale",
+      message: "Cosa vorresti ottenere da questa formazione?",
+      submit: "Invia richiesta di iscrizione",
+      consent: "Riceverai una risposta con calendario, conferma e prossimi passi.",
+      summaryTitle: "Cosa succede dopo",
+      summaryList: [
+        "La tua richiesta viene inviata direttamente al team del corso.",
+        "Ricevi una risposta personalizzata per sessioni pubbliche o private.",
+        "I gruppi privati possono essere organizzati per aziende, scuole o nonprofit."
+      ],
+      languageOptions: ["Inglese", "Francese", "Spagnolo", "Italiano"],
+      audienceOptions: ["Titolari di PMI", "Persone in cerca di lavoro", "Scuole o nonprofit", "Studenti", "Professionisti non tecnici", "Pubblico generale"],
+      formatOptions: ["Sessione Discovery", "Sessione Case Studies", "Sessione Workshop", "Pass settimanale", "Cohort privato"],
+      goalOptions: ["Iniziare con fiducia", "Migliorare un flusso di lavoro", "Lanciare un piccolo progetto IA", "Aggiornare un team", "Esplorare un programma personalizzato"],
+      contactNote: "L'invio del modulo utilizza FormSubmit per compatibilità con hosting statico.",
+      honeypot: "Lascia questo campo vuoto"
+    },
+    home: {
+      eyebrow: "Offerta pubblica",
+      title: "Un'offerta pratica di IA per chi vuole risultati prima del gergo.",
+      lead: "AI per Tutti è una formazione multilingue, pensata per principianti, rivolta a titolari di PMI, persone in transizione, scuole, nonprofit, studenti e professionisti non tecnici che vogliono risultati concreti, chiarezza e affidabilità.",
+      stats: [
+        { value: "3", label: "formati" },
+        { value: "5€", label: "prezzo base" },
+        { value: "4", label: "lingue" }
+      ],
+      heroPills: ["Per principianti", "Online + in presenza", "Offerta commerciale", "Multilingue"],
+      heroSideTitle: "Progettato per la fiducia e la conversione",
+      heroSideBody: "Il sito pubblico si concentra su risultati, rilevanza per pubblico, formati chiari e un percorso diretto di iscrizione invece che sui dettagli interni del programma.",
+      heroSideList: ["Posizionamento semplice", "Prezzi visibili", "Accesso per pubblico", "Spazi riservati per asset creativi futuri"],
+      carouselTitle: "Spazio riservato per carosello idee",
+      carouselLead: "Area riservata per una futura vetrina di storie clienti, concept workshop o esempi visivi prima/dopo.",
+      carouselItems: [
+        { title: "Rinnovo workflow retail", body: "Spazio per una breve storia visiva su come un titolare risparmia tempo su stock, messaggi e FAQ." },
+        { title: "Portfolio IA per il lavoro", body: "Spazio per una presentazione o carosello che mostra come un candidato migliora il proprio posizionamento." },
+        { title: "Kit di supporto per scuole", body: "Spazio per una storia mission-driven su supporto staff, comunicazione e coinvolgimento comunitario." }
+      ],
+      mediaTitle: "Area riservata per video e immagini",
+      mediaLead: "Grandi spazi riservati per un futuro video hero, reel istruttore, foto di gruppo, screenshot o testimonianze.",
+      videoTitle: "Spazio video hero",
+      videoBody: "Usa quest'area per un video introduttivo, un keynote o un montaggio di momenti di workshop.",
+      imageTitle: "Spazio immagine campagna",
+      imageBody: "Usa quest'area per foto di brand, screenshot, citazioni o visual stagionali.",
+      formatsTitle: "Tre formati commerciali, una progressione chiara",
+      formatsLead: "Ogni formato è autonomo, ma insieme portano il principiante dall'interesse alla comprensione fino alla pratica.",
+      formats: [
+        {
+          kicker: "Discovery",
+          title: "Primo contatto accessibile",
+          price: "5€",
+          meta: "Lunedì · online",
+          body: "Una sessione a bassa soglia per chi vuole esempi pratici, linguaggio semplice e una chiara idea di dove l'IA trova applicazione.",
+          bullets: ["Quattro casi concreti", "Nessun prerequisito tecnico", "Guida chiara ai prossimi passi"]
+        },
+        {
+          kicker: "Case Studies",
+          title: "Esempi reali e misurabili",
+          price: "10€",
+          meta: "Mercoledì · online",
+          body: "Analisi strutturate di workflow credibili, risultati, strumenti, prompt e controlli di qualità in contesti lavorativi e sociali.",
+          bullets: ["Esempi documentati", "Quadro ROI e rischi", "Decisioni più consapevoli"]
+        },
+        {
+          kicker: "Workshop",
+          title: "Sessioni pratiche",
+          price: "15€",
+          meta: "Venerdì · online o in presenza",
+          body: "I partecipanti escono con uno strumento, un clone o un workflow operativo invece che solo teoria.",
+          bullets: ["Costruzione dal vivo", "Test e rifinitura", "Risultato condivisibile"]
+        }
+      ],
+      audienceTitle: "Pagine dedicate per pubblico",
+      audienceLead: "Ogni pubblico ha una pagina dedicata, una promessa e casi d'uso specifici, mantenendo un percorso di iscrizione condiviso.",
+      audiences: [
+        { key: "smb", title: "Titolari di PMI", body: "Per chi ha bisogno di velocizzare marketing, amministrazione e comunicazione clienti senza un grande team tecnico." },
+        { key: "jobs", title: "Persone in cerca di lavoro", body: "Per chi vuole migliorare il proprio posizionamento, risultati e profilo IA." },
+        { key: "impact", title: "Scuole e nonprofit", body: "Per team mission-driven che necessitano di comunicazione efficace, supporto operativo e sviluppo di capacità." },
+        { key: "students", title: "Studenti", body: "Per chi vuole asset di portfolio, supporto allo studio e un vantaggio pratico prima di entrare nel mercato." },
+        { key: "beginners", title: "Professionisti non tecnici", body: "Per chi vuole abitudini IA utili senza diventare ingegneri o specialisti." }
+      ],
+      proofTitle: "Posizionamento commerciale senza esagerazioni",
+      proofLead: "L'offerta è costruita su risultati concreti, guida responsabile e design formativo ripetibile.",
+      proof: [
+        { title: "Sicuro per principianti", body: "Il linguaggio resta chiaro, pratico e adatto a pubblici non tecnici." },
+        { title: "Scala di valore visibile", body: "Il prezzo base facilita l'accesso, mentre i formati avanzati convertono l'interesse in impegno." },
+        { title: "Erogazione flessibile", body: "Adatto a gruppi pubblici, sessioni aziendali, programmi scolastici e nonprofit." }
+      ]
+    },
+    pages: {
+      smb: {
+        eyebrow: "Titolari di PMI",
+        title: "Usa l'IA per accelerare marketing, amministrazione e comunicazione clienti.",
+        lead: "Percorso pensato per titolari, negozianti, servizi e piccoli team che vogliono supporto pratico senza complessità tecnica.",
+        fit: ["Retail ed e-commerce", "Ospitalità e servizi", "Agenzie, studi e indipendenti"],
+        deliverables: ["Copy offerta e messaggi commerciali", "Sistemi FAQ e risposte clienti", "Mini strumenti per prenotazioni, contenuti e follow-up"],
+        results: ["Comunicazione più chiara", "Amministrazione più veloce", "Scelta strumenti più consapevole"],
+        process: ["Individuazione punti critici", "Analisi casi per settore", "Costruzione di uno strumento operativo"],
+        ctaTitle: "Trasforma test sparsi in un metodo operativo chiaro.",
+        ctaBody: "Iscriviti a una sessione pubblica o richiedi un gruppo privato per il tuo team."
+      },
+      jobs: {
+        eyebrow: "Persone in cerca di lavoro",
+        title: "Costruisci un vantaggio IA che il mercato riconosce.",
+        lead: "Pagina pensata per chi vuole candidature più forti, miglior posizionamento e prove pratiche invece che solo familiarità con gli strumenti.",
+        fit: ["Neolaureati", "Persone in transizione", "Professionisti che rientrano nel mercato"],
+        deliverables: ["CV e materiali di profilo più forti", "Flussi di preparazione colloqui", "Mini progetto visibile o prova di competenza"],
+        results: ["Posizionamento più credibile", "Migliore qualità di output", "Più sicurezza in colloqui e test"],
+        process: ["Mappatura gap di profilo", "Studio workflow IA efficaci", "Costruzione di una prova condivisibile"],
+        ctaTitle: "Passa dalla curiosità a una prova concreta per il lavoro.",
+        ctaBody: "Usa il modulo per prenotare un posto o richiedere un supporto mirato."
+      },
+      impact: {
+        eyebrow: "Scuole e nonprofit",
+        title: "Aumenta portata, chiarezza e capacità senza perdere qualità di missione.",
+        lead: "Percorso per educatori, amministratori, team nonprofit e organizzazioni che devono ottenere di più con poco tempo e budget.",
+        fit: ["Leadership scolastica e team di supporto", "Comunicazione nonprofit e staff programmi", "Team educazione e outreach"],
+        deliverables: ["Comunicazioni più chiare per famiglie e comunità", "Strumenti amministrativi e di supporto", "Sistemi di contenuto allineati alla missione"],
+        results: ["Meno tempo perso in bozze", "Comunicazione pubblica più coerente", "Uso IA più sicuro e responsabile"],
+        process: ["Identificazione colli di bottiglia", "Analisi esempi per scuola e nonprofit", "Costruzione di un workflow di supporto o sistema di contenuto"],
+        ctaTitle: "Porta IA pratica nel lavoro mission-driven con disciplina e chiarezza.",
+        ctaBody: "Iscrivi un membro dello staff, un programma studenti o una sessione personalizzata per la tua organizzazione."
+      },
+      students: {
+        eyebrow: "Studenti",
+        title: "Usa l'IA per studiare meglio, creare prove e entrare nel lavoro con abitudini più forti.",
+        lead: "Percorso per chi vuole che l'IA supporti studio, revisione, scrittura, progetti e portfolio senza scorciatoie deboli.",
+        fit: ["Studenti universitari", "Bootcamp", "Giovani e adulti in formazione"],
+        deliverables: ["Strumenti di studio e revisione", "Workflow di supporto progetti", "Mini build pronti per il portfolio"],
+        results: ["Migliore struttura e costanza", "Output di qualità superiore", "Fiducia pratica prima di stage o lavoro"],
+        process: ["Scegli un caso d'uso ad alto valore", "Impara pattern che migliorano chiarezza e qualità", "Costruisci un output presentabile per scuola o carriera"],
+        ctaTitle: "Impara a usare bene l'IA prima che il mercato lo richieda.",
+        ctaBody: "Posti pubblici e sessioni di gruppo disponibili tramite il modulo."
+      },
+      beginners: {
+        eyebrow: "Professionisti non tecnici",
+        title: "Un ingresso pratico e sereno all'IA per chi non vuole una curva tecnica pesante.",
+        lead: "Percorso per professionisti, amministrativi, coordinatori e indipendenti che vogliono risultati, non gergo tecnico.",
+        fit: ["Operativi e amministrativi", "Coach, consulenti e servizi", "Chi si sente indietro ma vuole un inizio credibile"],
+        deliverables: ["Workflow chiari di primo uso", "Pattern di prompting che riducono l'improvvisazione", "Un piccolo strumento o processo riutilizzabile"],
+        results: ["Meno intimidazione", "Miglior giudizio su strumenti e limiti", "Vantaggi pratici immediati"],
+        process: ["Parti da casi in linguaggio semplice", "Analizza esempi realistici e limiti", "Costruisci un piccolo workflow da riutilizzare"],
+        ctaTitle: "Non serve diventare tecnici per essere efficaci.",
+        ctaBody: "Usa il modulo per prenotare, chiedere supporto o una sessione su misura."
+      },
+      thanks: {
+        eyebrow: "Iscrizione ricevuta",
+        title: "Grazie. La tua richiesta è stata inviata.",
+        lead: "Una conferma è stata inviata alla casella del corso. Puoi tornare al sito principale o continuare a esplorare le pagine dedicate mentre attendi risposta.",
+        primary: "Torna al sito principale",
+        secondary: "Vedi le pagine per pubblico"
       }
     }
   }

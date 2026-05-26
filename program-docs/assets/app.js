@@ -1075,7 +1075,7 @@
           summaryLabel: "Summary",
           monthlyThemes: "themes",
           scheduleSummary: "Rolling 12-month thematic plan",
-          quickFacts: ["English", "French", "Spanish", "Beginner-first", "Online + onsite", "Practical builds"]
+          quickFacts: ["English", "French", "Spanish", "Italian", "Beginner-first", "Online + onsite", "Practical builds"]
         }
       },
       fr: {
@@ -1554,7 +1554,118 @@
               note: "Rédigés pour être engageants et crédibles sur LinkedIn, en légende Instagram, en email ou en présentation orale, sans donner une impression de gonflement marketing.",
         }
       }
-    };
+    },
+    it: {
+      brandEyebrow: "Formazione in quattro lingue",
+      brandTitle: "Programma AI Masterclass",
+      navExecutive: "Panoramica esecutiva",
+      navStructure: "Struttura e calendario",
+      navCurricula: "Curricula",
+      navTechnical: "Dettagli tecnici",
+      navPitch: "Testi di presentazione",
+      footerNote: "Preparato come documento di pianificazione autonomo per un programma di masterclass IA per principianti su 12 mesi rotanti.",
+      executive: {
+        heroEyebrow: "Scopo e posizionamento",
+        heroTitle: "Un programma IA pensato per principianti che trasporta dalla curiosità a un build funzionale in una sola lezione.",
+        heroLead: "Questo programma è progettato per principianti assoluti che hanno bisogno di fiducia pratica, non di teoria astratta. Ogni settimana combina una prospettiva Discovery, casi d'uso reali e un workshop pratico affinché i partecipanti comprendano l'IA in linguaggio semplice, vedano dove crea valore misurabile e terminino la settimana capaci di costruire qualcosa di utile da soli.",
+        kpis: [
+          { value: "52", label: "temi settimanali su 12 mesi rotanti" },
+          { value: "3", label: "formati di lezione ogni settimana in inglese, francese e spagnolo" },
+          { value: "1", label: "build pratico ogni venerdì con strumenti adatti ai principianti" },
+          { value: "25€", label: "pass settimanale che copre qualsiasi combinazione di lezioni" }
+        ],
+        sideCards: [
+          {
+            title: "Promessa fondamentale",
+            body: "I partecipanti non vanno via con un'ispirazione vaga. Se ne vanno con prompt, workflow ripetibili, un mini-progetto distribuito e una visione più chiara del ruolo dell'IA nel loro lavoro o nella loro vita personale."
+          },
+          {
+            title: "Postura pedagogica",
+            body: "Il tono è pratico, contemporaneo e credibile. Il programma utilizza settori pertinenti, linguaggio semplice, conversazioni oneste sui limiti ed esercizi che riducono la paura mentre elevano gli standard."
+          },
+          {
+            title: "Logica commerciale",
+            body: "La cadenza settimanale consente un accesso a bassa friction tramite Discovery, una convinzione più profonda tramite Case Studies, quindi una conversione in capacità tramite Workshop. Il pass incoraggia la ripetizione senza rendere l'offerta complessa."
+          }
+        ],
+        outcomesTitle: "Quello che il programma cerca di realizzare",
+        outcomesNote: "Il principio di progettazione è semplice: ogni lezione deve avere valore da sola, mentre la sequenza settimanale amplia fiducia e competenza.",
+        outcomes: [
+          "Rendere l'IA comprensibile per adulti non tecnici senza minimizzare i suoi rischi.",
+          "Fornire ai partecipanti un framework ripetibile per valutare quando l'IA aiuta, quando non aiuta e come verificare gli output.",
+          "Usare scenari personali, professionali, comunitari ed educativi molto pertinenti in modo che gli esempi siano immediatamente utili.",
+          "Costruire ogni settimana un progetto distribuibile per principianti utilizzando prompt, strumenti leggeri e una chiara checklist di qualità.",
+          "Creare un effetto portfolio nel tempo affinché i partecipanti regolari possano mostrare progressi pubblici o professionali."
+        ],
+        principlesTitle: "Principi di progettazione del programma",
+        principles: [
+          "Sicuro per principianti: non si assume esperienza di codice, eppure il contenuto rimane concreto e credibile per i profili tecnici.",
+          "La vita reale prima: ogni settimana è costruita attorno a un settore che riconosci istantaneamente al lavoro, in famiglia o nella vita quotidiana.",
+          "Realismo equilibrato: ogni lezione affronta alternative, costi, allucinazioni, rischi di uso improprio e rischi reputazionali.",
+          "Imparare costruendo: i workshop del venerdì trasformano concetti in app, clone o strumento operativo distribuibile rapidamente.",
+          "Erogazione multilingue: tutti i materiali e la facilitazione sono preparati in inglese, francese, spagnolo e italiano dal primo giorno."
+        ],
+        audienceTitle: "Pubblico target",
+        audienceCards: [
+          { title: "Inizio carriera", body: "Studenti, neolaureati e persone che cambiano carriera che desiderano un portfolio IA utile e abitudini praticabili per l'occupazione." },
+          { title: "Professionisti", body: "Manager, amministrativi, consulenti, insegnanti, liberi professionisti e operatori che hanno bisogno di guadagni di workflow immediati." },
+          { title: "Piccole organizzazioni", body: "PMI, associazioni, ONG e istituti che desiderano una cultura IA accessibile senza un pesante progetto di trasformazione." },
+          { title: "Costruttori curiosi", body: "Persone che non si considerano tecniche ma sono motivate da risultati visibili e da sperimentazione guidata." }
+        ]
+      },
+      structure: {
+        overviewTitle: "La progressione da principiante a costruttore in 12 settimane rotanti",
+        overviewLead: "Il programma è organizzato in quattro moduli ripetibili da 13 settimane (52 settimane totali). Ogni modulo tocca aree della vita quotidiana, del lavoro e della comunità. I partecipanti possono iniziare in qualsiasi settimana e seguire il ciclo completo.",
+        moduleTitle: "Quattro moduli tematici da 13 settimane",
+        moduleIntro: "Ogni modulo è autonomo ma mantiene la stessa progressione settimanale: lunedì Discovery, mercoledì Case Studies, venerdì Workshop.",
+        modules: [
+          {
+            title: "Modulo 1: Produttività personale e amministrazione",
+            description: "Dalle email ai calendari condivisi, dai piani pasto ai quiz per bambini, dai compiti ai riepiloghi del progetto.",
+            weeks: 13
+          },
+          {
+            title: "Modulo 2: Lavoro, carriera e posizionamento",
+            description: "Dalla ricerca di lavoro al portfolio, dalla lettere di presentazione ai test tecnici, dalla negoziazione agli adattamenti professionali.",
+            weeks: 13
+          },
+          {
+            title: "Modulo 3: Educazione, comunità e impatto",
+            description: "Dalla comunicazione scolastica ai programmi nonprofit, dalla gestione dei volontari alla raccolta fondi, dalle politiche ai bilanci pubblici.",
+            weeks: 13
+          },
+          {
+            title: "Modulo 4: Costruzione e innovazione",
+            description: "Dalla prototipazione al lancio di prodotto, dalle integrazioni API ai mini-SaaS, dai dataset ai dashboard personalizzati.",
+            weeks: 13
+          }
+        ],
+        syllabusIntro: "Di seguito è riportato un estratto di una settimana di ogni modulo per mostrare la progressione e lo stile di contenuto.",
+        syllabusTitle: "Estratto del programma settimanale (Modulo 1, Settimana 1-3)",
+        scheduleIntro: "Ogni colonna mostra il tema della settimana, le quattro sessioni Discovery, i quattro Case Studies e il workshop di venerdì.",
+        scheduleSummary: "Piano tematico rotante di 12 mesi",
+        common: {
+          audienceCardLabel: "Pubblico",
+          outcomesLabel: "Risultati",
+          summaryLabel: "Riepilogo",
+          monthlyThemes: "temi",
+          scheduleSummary: "Piano tematico rotante di 12 mesi",
+          quickFacts: ["Inglese", "Francese", "Spagnolo", "Italiano", "Per principianti", "Online + in presenza", "Build pratici"]
+        }
+      },
+      pitch: {
+        elevator: {
+          title: "Pitch di presentazione in tre paragrafi",
+          note: "Scritti per essere coinvolgenti e credibili su LinkedIn, nelle didascalie di Instagram, nelle email o in presentazioni orali, senza sembrare gonfi di marketing.",
+          paragraphs: [
+            "L'intelligenza artificiale è diventata impossibile da ignorare, ma per molti rimane astratta, intimidatoria o sopravvalutata. Questo programma di masterclass è rivolto ai principianti assoluti che vogliono un ingresso pratico. Invece del gergo tecnico, utilizza situazioni familiari dal lavoro, dalla vita personale, dall'educazione e dalle piccole organizzazioni per mostrare dove l'IA risparmia veramente tempo, migliora la qualità e apre nuove idee.",
+            "Ogni settimana segue una progressione chiara. Lunedì, Discovery rende l'argomento facile da capire; mercoledì, i Case Studies mostrano dove l'IA ha già prodotto risultati misurabili; venerdì, il Workshop trasforma l'apprendimento in build reale. L'obiettivo non è solo parlare di IA. L'obiettivo è aiutare i partecipanti a uscire dalla lezione con qualcosa di utile che hanno effettivamente costruito.",
+            "Questo non è un corso teorico o un marketing hype. È un anno di costruzione pratica, progettato per principianti assoluti, insegnato in inglese, francese, spagnolo e italiano, con un prezzo che rende accessibile l'accesso senza sacrificare la credibilità. I partecipanti escono con workflow, template, mini-progetti e un'abitudine di valutazione chiaramente superiore a prima."
+          ]
+        }
+      }
+    }
+  };
 
                     "L'intelligence artificielle est devenue impossible à ignorer, mais pour beaucoup elle reste abstraite, intimidante ou survendue. Ce programme de masterclass s'adresse à des débutants complets qui veulent une entrée pratique. Au lieu du jargon technique, il utilise des situations familières du travail, de la vie personnelle, de l'éducation et des petites structures pour montrer où l'IA fait vraiment gagner du temps, améliore la qualité et ouvre de nouvelles idées.",
                     "Chaque semaine suit une progression claire. Le lundi, Discovery rend le sujet facile à comprendre; le mercredi, les Cas d'usage montrent où l'IA a déjà produit des résultats mesurables; le vendredi, l'Atelier transforme l'apprentissage en build réel. L'objectif n'est pas seulement de parler d'IA. L'objectif est d'aider les participants à sortir du cours avec quelque chose d'utile qu'ils ont effectivement produit.",
