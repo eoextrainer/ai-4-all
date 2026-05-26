@@ -347,29 +347,29 @@
         theme: { en: "HR and recruiting", fr: "RH et recrutement", es: "RR. HH. y reclutamiento" },
         discovery: {
           en: ["Job descriptions", "Candidate summaries", "Interview questions", "Onboarding packs"],
-          fr: ["Descriptions de poste", "Syntheses de candidats", "Questions d'entretien", "Packs d'integration"],
-          es: ["Descripciones de puesto", "Resumenes de candidatos", "Preguntas de entrevista", "Paquetes de onboarding"]
+          fr: ["Descriptions de poste", "Synth
+          es: ["Descripciones de puesto", "Res
         },
         cases: {
           en: ["Small business hiring toolkit", "Volunteer recruitment pack", "Intern interview matrix", "Employee handbook refresh"],
-          fr: ["Kit de recrutement pour petite entreprise", "Pack de recrutement de benevoles", "Matrice d'entretien pour stagiaires", "Actualisation du livret employe"],
-          es: ["Kit de contratacion para pyme", "Paquete de reclutamiento de voluntariado", "Matriz de entrevistas para becarios", "Actualizacion del manual del empleado"]
+          fr: ["Kit de recrutement pour petite entreprise", "Pack de recrutement de b
+          es: ["Kit de contrataci
         },
         workshop: { en: "Applicant tracking mini app", fr: "Mini application de suivi de candidatures", es: "Mini app de seguimiento de candidatos" }
       },
       {
         month: 5,
         week: 23,
-        theme: { en: "Knowledge management", fr: "Gestion des connaissances", es: "Gestion del conocimiento" },
+        theme: { en: "Knowledge management", fr: "Gestion des connaissances", es: "Gesti
         discovery: {
           en: ["FAQ building", "Document summaries", "SOP drafts", "Searchable notes"],
-          fr: ["Construction de FAQ", "Syntheses de documents", "Brouillons de procedures", "Notes consultables"],
-          es: ["Construccion de FAQ", "Resumenes de documentos", "Borradores de SOP", "Notas consultables"]
+          fr: ["Construction de FAQ", "Synth
+          es: ["Construcci
         },
         cases: {
           en: ["Internal wiki assistant", "Training handbook condensing", "Agency process finder", "School policy search bot"],
           fr: ["Assistant de wiki interne", "Condensation de manuel de formation", "Moteur de process d'agence", "Bot de recherche de politique scolaire"],
-          es: ["Asistente de wiki interna", "Condensacion de manual de formacion", "Buscador de procesos para agencia", "Bot de busqueda de politicas escolares"]
+          es: ["Asistente de wiki interna", "Condensaci
         },
         workshop: { en: "Knowledge base portal", fr: "Portail de base de connaissances", es: "Portal de base de conocimiento" }
       },
@@ -520,18 +520,18 @@
       {
         month: 7,
         week: 33,
-        theme: { en: "Schools and tutoring", fr: "Ecoles et soutien scolaire", es: "Escuelas y tutorias" },
+        theme: { en: "Schools and tutoring", fr: "Ecoles et soutien scolaire", es: "Escuelas y tutor
         discovery: {
           en: ["Lesson hooks", "Rubric drafting", "Parent updates", "Revision checklists"],
-          fr: ["Accroches de cours", "Redaction de rubriques", "Mises a jour aux parents", "Checklists de revision"],
-          es: ["Ganchos para clases", "Redaccion de rubricas", "Actualizaciones para familias", "Checklists de repaso"]
+          fr: ["Accroches de cours", "R
+          es: ["Ganchos para clases", "Redacci
         },
         cases: {
           en: ["Tutoring pack generator", "Homework support workflow", "Teacher admin simplifier", "Learning support summaries"],
-          fr: ["Generateur de pack de tutorat", "Workflow de soutien aux devoirs", "Simplificateur administratif pour enseignants", "Syntheses de soutien pedagogique"],
-          es: ["Generador de paquete de tutoria", "Flujo de apoyo a deberes", "Simplificador administrativo para docentes", "Resumenes de apoyo al aprendizaje"]
+          fr: ["G
+          es: ["Generador de paquete de tutor
         },
-        workshop: { en: "Tutor portal", fr: "Portail de tutorat", es: "Portal de tutorias" }
+        workshop: { en: "Tutor portal", fr: "Portail de tutorat", es: "Portal de tutor
       },
       {
         month: 7,
@@ -539,13 +539,13 @@
         theme: { en: "Professional services", fr: "Services professionnels", es: "Servicios profesionales" },
         discovery: {
           en: ["Proposal decks", "Scope summaries", "Meeting recaps", "Client Q&A"],
-          fr: ["Decks de proposition", "Syntheses de perimetre", "Recaps de reunion", "Q&R client"],
-          es: ["Presentaciones de propuestas", "Resumenes de alcance", "Recaps de reuniones", "Q&A para clientes"]
+          fr: ["Decks de proposition", "Synth
+          es: ["Presentaciones de propuestas", "Res
         },
         cases: {
           en: ["Agency project starter kit", "Accountant client portal copy", "Law office intake form", "Architect brief assistant"],
           fr: ["Kit de lancement pour agence", "Texte de portail client pour comptable", "Formulaire d'accueil cabinet juridique", "Assistant de brief architecte"],
-          es: ["Kit inicial para agencia", "Texto para portal de clientes de contabilidad", "Formulario de admision para despacho juridico", "Asistente de brief para arquitectura"]
+          es: ["Kit inicial para agencia", "Texto para portal de clientes de contabilidad", "Formulario de admisi
         },
         workshop: { en: "Client portal clone", fr: "Clone de portail client", es: "Clon de portal de clientes" }
       },
@@ -824,16 +824,16 @@
       {
         month: 11,
         week: 52,
-        theme: { en: "Portfolio and graduation showcase", fr: "Portfolio et showcase de fin de parcours", es: "Portafolio y showcase de graduacion" },
+        theme: { en: "Portfolio and graduation showcase", fr: "Portfolio et showcase de cl
         discovery: {
           en: ["Storytelling", "Portfolio framing", "Confidence reflection", "Next-step mapping"],
-          fr: ["Storytelling", "Mise en valeur du portfolio", "Reflexion sur la confiance", "Cartographie des prochaines etapes"],
-          es: ["Storytelling", "Enmarcado del portafolio", "Reflexion sobre la confianza", "Mapa de siguientes pasos"]
+          fr: ["Storytelling", "Mise en valeur du portfolio", "R
+          es: ["Storytelling", "Enmarcado del portafolio", "Reflexi
         },
         cases: {
           en: ["Demo day presentations", "LinkedIn proof points", "Student success stories", "Referral-ready project pages"],
-          fr: ["Presentations de demo day", "Preuves LinkedIn", "Histoires de reussite des etudiants", "Pages projet pretes pour recommandation"],
-          es: ["Presentaciones de demo day", "Pruebas para LinkedIn", "Historias de exito del alumnado", "Paginas de proyecto listas para recomendacion"]
+          fr: ["Pr
+          es: ["Presentaciones de demo day", "Pruebas para LinkedIn", "Historias de 
         },
         workshop: { en: "Portfolio showcase site", fr: "Site vitrine de portfolio", es: "Sitio vitrina de portafolio" }
       }
@@ -847,61 +847,61 @@
         navStructure: "Structure & Calendar",
         navCurricula: "Curricula",
         navTechnical: "Technical Details",
-        navPitch: "Pitch Deck Copy",
-        footerNote: "Prepared as a self-contained planning document for a rolling 12-month beginner AI masterclass program.",
+        navPitch: "Textes de présentation",
+        footerNote: "Préparé comme document de planification autonome pour un programme de masterclass IA débutant sur 12 mois glissants.",
         executive: {
           heroEyebrow: "Purpose and positioning",
-          heroTitle: "A beginner-first AI program that moves students from curiosity to a working build in one class.",
-          heroLead: "This program is designed for complete beginners who need practical confidence, not abstract theory. Every week combines a discovery lens, real-world case studies, and a hands-on workshop so participants can understand AI in plain language, see where it creates measurable value, and finish the week able to build something useful themselves.",
+          heroTitle: "Un programme IA pensé pour les débutants qui fait passer de la curiosité à un build fonctionnel en un cours.",
+          heroLead: "Ce programme est conçu pour des débutants complets qui ont besoin de confiance pratique, pas de théorie abstraite. Chaque semaine combine un angle Discovery, des cas d'usage concrets et un atelier pratique afin que les participants comprennent l'IA en langage clair, voient où elle crée une valeur mesurable et terminent la semaine capables de construire quelque chose d'utile eux-mêmes.",
           kpis: [
-            { value: "52", label: "weekly themes across 12 rolling months" },
-            { value: "3", label: "class formats every week in English, French and Spanish" },
-            { value: "1", label: "hands-on build each Friday with beginner-safe tooling" },
+            { value: "52", label: "thèmes hebdomadaires sur 12 mois glissants" },
+            { value: "3", label: "formats de cours chaque semaine en anglais, français et espagnol" },
+            { value: "1", label: "build pratique chaque vendredi avec des outils adaptés aux débutants" },
             { value: "25€", label: "weekly pass covering any class combination" }
           ],
           sideCards: [
             {
               title: "Core promise",
-              body: "Students do not leave with vague inspiration. They leave with prompts, repeatable workflows, a deployed mini-project, and a clearer idea of where AI fits in their work or personal life."
+              body: "Les participants ne repartent pas avec une inspiration vague. Ils repartent avec des prompts, des workflows répétables, un mini-projet déployé et une vision plus claire de la place de l'IA dans leur travail ou leur vie personnelle."
             },
             {
-              title: "Teaching stance",
-              body: "The tone is practical, contemporary and credible. The program uses relatable sectors, simple language, honest conversations about limits, and exercises that lower fear while raising standards."
+              title: "Posture pédagogique",
+              body: "Le ton est pratique, contemporain et crédible. Le programme utilise des secteurs parlants, un langage simple, des conversations honnêtes sur les limites et des exercices qui réduisent la peur tout en élevant les standards."
             },
             {
               title: "Commercial logic",
-              body: "The weekly ladder invites low-friction entry through Discovery, deeper conviction through Case Studies, and conversion to capability through Workshops. The pass pricing encourages repeat attendance without making the offer complex."
+              body: "L'échelle hebdomadaire permet une entrée à faible friction via Discovery, une conviction plus profonde via les Cas d'usage, puis une conversion en capacité via les Ateliers. Le pass encourage la répétition sans rendre l'offre complexe."
             }
           ],
-          outcomesTitle: "What this program is built to achieve",
-          outcomesNote: "The design principle is simple: every class should feel valuable on its own, while the weekly sequence compounds confidence and skill.",
+          outcomesTitle: "Ce que le programme cherche à accomplir",
+          outcomesNote: "Le principe de conception est simple: chaque cours doit avoir de la valeur seul, tandis que la séquence hebdomadaire renforce la confiance et la compétence.",
           outcomes: [
-            "Make AI understandable for non-technical adults without oversimplifying its risks.",
-            "Give delegates a repeatable framework for evaluating when AI helps, when it does not, and how to check outputs.",
-            "Use highly relatable personal, business, nonprofit and educational scenarios so the examples feel immediately useful.",
-            "Build one deployable beginner project every week using prompts, lightweight tools and a clear quality checklist.",
-            "Create a portfolio effect over time so returning students can demonstrate progress publicly or professionally."
+            "Rendre l'IA compréhensible pour des adultes non techniques sans minimiser ses risques.",
+            "Donner aux participants un cadre répétable pour évaluer quand l'IA aide, quand elle n'aide pas, et comment vérifier les sorties.",
+            "Utiliser des scénarios personnels, professionnels, associatifs et éducatifs très parlants pour que les exemples soient immédiatement utiles.",
+            "Construire chaque semaine un projet débutant déployable à l'aide de prompts, d'outils légers et d'une checklist qualité claire.",
+            "Créer un effet portfolio dans la durée afin que les participants réguliers puissent montrer des progrès publics ou professionnels."
           ],
           principlesTitle: "Program design principles",
           principles: [
-            "Beginner-safe: no coding background assumed, but technical people still find the content credible and concrete.",
-            "Real life first: each week is built around a sector that people instantly recognise from work, family or daily life.",
-            "Balanced realism: every class discusses alternatives, costs, hallucinations, misuse risk and reputation risk.",
-            "Build-to-learn: Friday workshops convert concepts into an app, clone or operational tool that can be deployed quickly.",
-            "Multilingual delivery: all materials and facilitation are prepared in English, French and Spanish from day one."
+            "Sécurisé pour les débutants: aucun bagage de code n'est supposé, tout en gardant un contenu crédible et concret pour les profils plus techniques.",
+            "La vraie vie d'abord: chaque semaine est construite autour d'un secteur que l'on reconnaît instantanément au travail, en famille ou au quotidien.",
+            "Réalisme équilibré: chaque cours aborde les alternatives, les coûts, les hallucinations, les risques de mauvais usage et les risques de réputation.",
+            "Apprendre en construisant: les ateliers du vendredi transforment les concepts en app, clone ou outil opérationnel déployable rapidement.",
+            "Livraison multilingue: tous les supports et l'animation sont préparés en anglais, français et espagnol dès le premier jour."
           ],
-          audienceTitle: "Who this is for",
+          audienceTitle: "Public visé",
           audienceCards: [
-            { title: "Career starters", body: "Students, graduates and career changers who want a useful AI portfolio and practical job-ready habits." },
-            { title: "Professionals", body: "Managers, administrators, consultants, teachers, freelancers and operators who need immediate workflow gains." },
-            { title: "Small organisations", body: "SMBs, nonprofits, associations and schools that want accessible AI literacy without a heavy transformation project." },
-            { title: "Curious builders", body: "People who may not think of themselves as technical, but are motivated by visible outcomes and guided experimentation." }
+            { title: "Débuts de carrière", body: "Étudiants, jeunes diplômés et personnes en reconversion qui veulent un portfolio IA utile et des habitudes praticables pour l'emploi." },
+            { title: "Professionnels", body: "Managers, administratifs, consultants, enseignants, indépendants et opérateurs qui ont besoin de gains de workflow immédiats." },
+            { title: "Petites organisations", body: "PME, associations, ONG et établissements qui veulent une culture IA accessible sans projet de transformation lourd." },
+            { title: "Constructeurs curieux", body: "Des personnes qui ne se pensent pas techniques mais qui sont motivées par des résultats visibles et une expérimentation guidée." }
           ]
         },
         structure: {
           title: "Program structure, calendar, audience and pricing",
-          note: "The schedule below assumes a rolling launch in June 2026 and can repeat annually with refreshed examples, case studies and workshop builds.",
-          weeklyTitle: "Weekly operating model",
+          note: "Le planning ci-dessous suppose un lancement glissant en juin 2026 et peut se répéter chaque année avec des exemples, cas d'usage et builds renouvelés.",
+          weeklyTitle: "Modèle opérationnel hebdomadaire",
           weeklyTableHeaders: ["Day", "Time", "Format", "Mode", "Price"],
           weeklyRows: [
             ["Monday", "7:00 PM - 8:00 PM", "Discovery", "Online", "5€"],
@@ -1081,676 +1081,746 @@
       fr: {
         brandEyebrow: "Animation en trois langues",
         brandTitle: "Programme AI Masterclass",
-        navExecutive: "Vue d'ensemble",
-        navStructure: "Structure et calendrier",
+        navExecutive: "Vue Ex
+        navStructure: "Structure et Calendrier",
         navCurricula: "Curricula",
-        navTechnical: "Details techniques",
-        navPitch: "Textes de presentation",
-        footerNote: "Prepare comme document de planification autonome pour un programme de masterclass IA debutant sur 12 mois glissants.",
+        navTechnical: "D
+        navPitch: "Textes de Pr
+        footerNote: "Document de planification autonome pour un programme de masterclass IA d
         executive: {
           heroEyebrow: "Objectif et positionnement",
-          heroTitle: "Un programme IA pense pour les debutants qui fait passer de la curiosite a un build fonctionnel en un cours.",
-          heroLead: "Ce programme est concu pour des debutants complets qui ont besoin de confiance pratique, pas de theorie abstraite. Chaque semaine combine un angle Discovery, des cas d'usage concrets et un atelier pratique afin que les participants comprennent l'IA en langage clair, voient ou elle cree une valeur mesurable et terminent la semaine capables de construire quelque chose d'utile eux-memes.",
+          heroTitle: "Un programme IA pens
+          heroLead: "Ce programme est con
           kpis: [
-            { value: "52", label: "themes hebdomadaires sur 12 mois glissants" },
-            { value: "3", label: "formats de cours chaque semaine en anglais, francais et espagnol" },
-            { value: "1", label: "build pratique chaque vendredi avec des outils adaptes aux debutants" },
-            { value: "25€", label: "pass hebdomadaire couvrant toute combinaison de cours" }
+            { value: "52", label: "th
+            { value: "3", label: "formats de cours chaque semaine en anglais, fran
+            { value: "1", label: "construction pratique chaque vendredi avec des outils adapt
+            { value: "25€", label: "pass hebdomadaire couvrant n'importe quelle combinaison de cours" }
           ],
           sideCards: [
             {
               title: "Promesse centrale",
-              body: "Les participants ne repartent pas avec une inspiration vague. Ils repartent avec des prompts, des workflows repetables, un mini-projet deploye et une vision plus claire de la place de l'IA dans leur travail ou leur vie personnelle."
+              body: "Les participants ne repartent pas avec une inspiration vague. Ils repartent avec des prompts, des workflows r
             },
             {
-              title: "Posture pedagogique",
-              body: "Le ton est pratique, contemporain et credible. Le programme utilise des secteurs parlants, un langage simple, des conversations honnetes sur les limites et des exercices qui reduisent la peur tout en elevant les standards."
+              title: "Posture p
+              body: "Le ton est pratique, contemporain et cr
             },
             {
               title: "Logique commerciale",
-              body: "L'echelle hebdomadaire permet une entree a faible friction via Discovery, une conviction plus profonde via les Cas d'usage, puis une conversion en capacite via les Ateliers. Le pass encourage la repetition sans rendre l'offre complexe."
+              body: "L'
             }
           ],
-          outcomesTitle: "Ce que le programme cherche a accomplir",
-          outcomesNote: "Le principe de conception est simple: chaque cours doit avoir de la valeur seul, tandis que la sequence hebdomadaire renforce la confiance et la competence.",
+          outcomesTitle: "Ce que le programme vise 
+          outcomesNote: "Le principe est simple: chaque cours doit avoir de la valeur seul, tandis que la s
           outcomes: [
-            "Rendre l'IA comprehensible pour des adultes non techniques sans minimiser ses risques.",
-            "Donner aux participants un cadre repetable pour evaluer quand l'IA aide, quand elle n'aide pas, et comment verifier les sorties.",
-            "Utiliser des scenarios personnels, professionnels, associatifs et educatifs tres parlants pour que les exemples soient immediatement utiles.",
-            "Construire chaque semaine un projet debutant deployable a l'aide de prompts, d'outils legers et d'une checklist qualite claire.",
-            "Creer un effet portfolio dans la duree afin que les participants reguliers puissent montrer des progres publics ou professionnels."
+            "Rendre l'IA compr
+            "Donner aux participants un cadre r
+            "Utiliser des sc
+            "Construire chaque semaine un projet d
+            "Cr
           ],
           principlesTitle: "Principes de conception du programme",
           principles: [
-            "Securise pour les debutants: aucun bagage de code n'est suppose, tout en gardant un contenu credible et concret pour les profils plus techniques.",
-            "La vraie vie d'abord: chaque semaine est construite autour d'un secteur que l'on reconnait instantanement au travail, en famille ou au quotidien.",
-            "Realisme equilibre: chaque cours aborde les alternatives, les couts, les hallucinations, les risques de mauvais usage et les risques reputations.",
-            "Apprendre en construisant: les ateliers du vendredi transforment les concepts en app, clone ou outil operationnel deployable rapidement.",
-            "Livraison multilingue: tous les supports et l'animation sont prepares en anglais, francais et espagnol des le premier jour."
+            "S
+            "Le r
+            "R
+            "Apprendre en construisant: les ateliers du vendredi transforment les concepts en app, clone ou outil op
+            "Livraison multilingue: tous les contenus et l'animation sont pr
           ],
-          audienceTitle: "Public vise",
+          audienceTitle: "Public vis
           audienceCards: [
-            { title: "Debuts de carriere", body: "Etudiants, jeunes diplomes et personnes en reconversion qui veulent un portfolio IA utile et des habitudes praticables pour l'emploi." },
-            { title: "Professionnels", body: "Managers, administratifs, consultants, enseignants, independants et operateurs qui ont besoin de gains de workflow immediats." },
-            { title: "Petites organisations", body: "PME, associations, ONG et etablissements qui veulent une culture IA accessible sans projet de transformation lourd." },
-            { title: "Constructeurs curieux", body: "Des personnes qui ne se pensent pas techniques mais qui sont motivees par des resultats visibles et une experimentation guidee." }
+            { title: "D
+            { title: "Professionnels", body: "Managers, administratifs, consultants, enseignants, freelances et op
+            { title: "Petites structures", body: "PME, associations, ONG et 
+            { title: "Constructeurs curieux", body: "Des personnes qui ne se voient pas forc
           ]
         },
         structure: {
           title: "Structure du programme, calendrier, audience et tarification",
-          note: "Le planning ci-dessous suppose un lancement glissant en juin 2026 et peut se repeter chaque annee avec des exemples, cas d'usage et builds renouvelles.",
-          weeklyTitle: "Modele operationnel hebdomadaire",
+          note: "Le planning ci-dessous suppose un lancement glissant en juin 2026 et peut 
+          weeklyTitle: "Mod
           weeklyTableHeaders: ["Jour", "Horaire", "Format", "Mode", "Prix"],
           weeklyRows: [
-            ["Lundi", "19h00 - 20h00", "Discovery", "En ligne", "5€"],
-            ["Lundi", "22h00 - 00h00", "Discovery", "En ligne", "5€"],
+            ["Lundi", "19h00 - 20h00", "D
+            ["Lundi", "22h00 - 00h00", "D
             ["Mercredi", "19h00 - 20h00", "Cas d'usage", "En ligne", "10€"],
             ["Mercredi", "22h00 - 00h00", "Cas d'usage", "En ligne", "10€"],
-            ["Vendredi", "19h00 - 20h00", "Atelier", "Sur site", "15€"],
+            ["Vendredi", "19h00 - 20h00", "Atelier", "Pr
             ["Vendredi", "22h00 - 00h00", "Atelier", "En ligne", "15€"]
           ],
           pricingTitle: "Grille tarifaire et politique",
-          pricingHeaders: ["Offre", "Acces", "Prix", "Conditions"],
+          pricingHeaders: ["Offre", "Acc
           pricingRows: [
-            ["Billet Discovery", "Un cours du lundi, en ligne", "5€", "Non remboursable; l'absence n'est pas remboursable."],
+            ["Billet D
             ["Billet Cas d'usage", "Un cours du mercredi, en ligne", "10€", "Non remboursable; l'absence n'est pas remboursable."],
             ["Billet Atelier", "Un cours du vendredi, en ligne ou sur site", "15€", "Non remboursable; l'absence n'est pas remboursable."],
-            ["Pass hebdomadaire", "Toute combinaison de cours sur une semaine", "25€", "Option la plus avantageuse pour une immersion sur la semaine complete."],
-            ["Politique d'annulation formateur", "Applicable a tout cours annule", "Remboursement 50%", "Si le formateur annule le cours, 50% du montant paye est rembourse."]
+            ["Pass hebdomadaire", "Toute combinaison de cours sur une semaine", "25€", "Option la plus avantageuse pour une immersion compl
+            ["Politique d'annulation formateur", "Applicable 
           ],
           audienceTitle: "Audience cible par intention",
           audience: [
-            "Debutants complets qui ont besoin d'un point d'entree serein dans l'IA.",
-            "Professionnels a la recherche de cas d'usage concrets avant d'investir dans des outils ou des formations plus lourds.",
-            "Entrepreneurs et independants qui veulent produire plus vite des actifs, des contenus et des systemes legers.",
-            "Enseignants, equipes associatives et leaders communautaires en recherche d'applications responsables et accessibles de l'IA."
+            "Grands d
+            "Professionnels souhaitant voir des cas d'usage concrets avant d'investir davantage.",
+            "Entrepreneurs et freelances qui veulent produire plus vite des actifs, contenus et syst
+            "Enseignants, associations et responsables communautaires en recherche d'applications responsables et accessibles."
           ],
           calendarTitle: "Calendrier hebdomadaire sur 12 mois",
-          calendarNote: "Chaque semaine prend un theme tres parlant. Discovery introduit quatre usages, les Cas d'usage apportent quatre exemples mesurables et l'Atelier transforme le theme en app ou clone pratique.",
+          calendarNote: "Chaque semaine porte un th
           monthToggleOpen: "Ouvrir le mois",
           monthToggleClose: "Fermer le mois",
           weekLabel: "Semaine",
-          weekCols: ["Temps forts de Discovery", "Angles de cas d'usage", "Build d'atelier"]
+          weekCols: ["Axes de D
         },
         curricula: {
-          title: "Curricula et structure detaillee des cours",
-          note: "Les plans de cours gardent un rythme constant tout en adaptant les exemples et le defi de build au theme de la semaine.",
+          title: "Curricula et structure d
+          note: "Les plans de cours gardent un rythme coh
           cards: [
             {
-              title: "Discovery",
-              subtitle: "Construire rapidement la confiance des debutants",
-              summary: "Discovery est la porte d'entree accessible. Il montre ce que l'IA moderne peut faire pour des personnes ordinaires dans des contextes ordinaires sans supposer de connaissances techniques.",
+              title: "D
+              subtitle: "Construire rapidement la confiance des d
+              summary: "La D
               steps: [
-                "Accueil, cadrage de la semaine et Q&R rapide ou quiz ludique sur la maturite IA.",
-                "Introduction a quatre cas du theme montrant des usages innovants mais pratiques de l'IA pour des personnes non techniques.",
-                "Pour chaque exemple: le defi, les alternatives sans IA, la reponse assistee par IA, les pieges frequents, les limites et les recommandations de bonnes pratiques.",
-                "Quiz et discussion sur la facon dont les participants resoudraient un defi similaire.",
-                "Cloture avec conseils, ressources en ligne, magazines IA recommandes et pont vers les cas d'usage du mercredi."
+                "Accueil, cadrage de la semaine et Q&R rapide ou quiz ludique sur la maturit
+                "Introduction 
+                "Pour chaque exemple: le d
+                "Quiz et discussion sur la mani
+                "Cl
               ],
-              outcomes: ["Reduire la peur", "Ameliorer le jugement", "Declencher des idees", "Encourager les premiers essais"]
+              outcomes: ["R
             },
             {
               title: "Cas d'usage",
-              subtitle: "Prouver la valeur par des resultats concrets",
-              summary: "Les Cas d'usage transforment la curiosite en credibilite. Ils montrent des situations recentes dans l'entreprise, l'associatif, les PME et l'education ou l'IA a produit des gains mesurables.",
+              subtitle: "Prouver la valeur par des r
+              summary: "Les Cas d'usage transforment la curiosit
               steps: [
-                "Accueil, prise de temperature rapide et court quiz sur les habitudes ou hypotheses actuelles en IA.",
-                "Introduction a quatre scenarios recents et reels avec un contexte clair et des benefices mesurables.",
-                "Pour chaque cas: le defi initial, le cout de l'inaction, les alternatives sans IA avec analyse cout-valeur, la pile IA retenue, les prompts et la logique agentique, les corrections d'hallucinations et le resultat final.",
-                "Discussion sur les risques de mauvais usage, les risques reputations, les sujets de gouvernance et les controles qualite.",
-                "Cloture avec lecture complementaire, playbooks du formateur, recommandations de suite et passage vers le build du vendredi."
+                "Accueil, prise de temp
+                "Introduction 
+                "Pour chaque cas: probl
+                "Discussion des risques d'abus, de r
+                "Cl
               ],
-              outcomes: ["Installer la confiance", "Montrer le ROI", "Enseigner l'evaluation", "Normaliser le controle qualite"]
+              outcomes: ["Installer la confiance", "Montrer le ROI", "Enseigner l'
             },
             {
               title: "Atelier",
               subtitle: "Construire un projet fonctionnel pendant le cours",
-              summary: "L'atelier est le moment ou les debutants deviennent des makers. Chaque semaine, la classe construit une app legere, un clone ou un outil operationnel autour du theme de la semaine.",
+              summary: "L'atelier est l'endroit o
               steps: [
-                "Accueil, courte Q&R et presentation de la solution pratique a construire pendant la session.",
-                "Revue du defi et de la raison pour laquelle l'IA est utile pour cette mission.",
-                "La methode: pourquoi ce build compte, quels outils et agents sont necessaires, comment structurer les prompts et ce qu'il faut verifier pour reduire les hallucinations et obtenir un resultat utile.",
-                "Construction en direct, tests incrementaux, finitions et indications simples de publication ou de partage.",
-                "Cloture avec revue finale, bonnes pratiques, ressources et pistes pour faire evoluer le build apres le cours."
+                "Accueil, courte Q&R et pr
+                "Revue du d
+                "La m
+                "Construction en direct, tests progressifs, finitions et conseils simples de publication ou de d
+                "Cl
               ],
-              outcomes: ["Produire quelque chose de reel", "Pratiquer le prompting", "Comprendre la QA", "Repartir avec un actif de portfolio"]
+              outcomes: ["Produire quelque chose de r
             }
           ],
-          teachingTitle: "Mecanique pedagogique commune a tous les formats",
+          teachingTitle: "M
           teaching: [
-            "Chaque session commence par de l'interaction pour evaluer la maturite et garder le groupe actif plutot que passif.",
-            "Les exemples sont choisis pour des points de tension tres concrets: vitesse, cout, charge administrative, qualite de service et clarte de communication.",
-            "Chaque succes IA est mis en regard de ses limites, de controles qualite et d'une discussion realiste sur les mauvais usages.",
-            "L'atelier du vendredi se termine toujours par un livrable utilisable, meme simplifie, afin que l'etudiant vive une boucle complete."
+            "Chaque session commence par de l'interaction pour 
+            "Les exemples sont choisis pour leurs points de tension concrets: vitesse, co
+            "Chaque succ
+            "L'atelier du vendredi se termine toujours par un livrable utilisable, m
           ]
         },
         technical: {
-          title: "Details techniques et outillage d'implementation",
-          note: "L'outillage reste volontairement leger. L'objectif n'est pas d'ecraser les debutants, mais de les aider a produire un travail credible et deployable en une session.",
+          title: "D
+          note: "L'outillage reste volontairement l
           stackCards: [
             {
               title: "Assistants IA centraux",
-              body: "ChatGPT, Claude, Gemini ou Microsoft Copilot pour le prompting, la redaction, la comparaison et la critique. Le modele pedagogique reste agnostique a l'outil afin que la classe s'adapte a l'assistant deja utilise par l'etudiant."
+              body: "ChatGPT, Claude, Gemini ou Microsoft Copilot pour le prompting, la r
             },
             {
               title: "Couche de build",
-              body: "Des outils no-code ou low-code comme Lovable, Bolt, Replit, Glide, Softr, Notion, Airtable, Canva et Tally. Ils sont retenus parce qu'ils raccourcissent fortement le chemin entre le prompt et un resultat visible."
+              body: "Des outils no-code ou low-code tels que Lovable, Bolt, Replit, Glide, Softr, Notion, Airtable, Canva et Tally. Ils sont retenus parce qu'ils raccourcissent fortement le chemin entre le prompt et un r
             },
             {
               title: "Couche de publication",
-              body: "Vercel, Netlify, Replit Deployments, liens de partage Glide, publication Notion, Google Drive et liens Canva. Chaque atelier se termine avec une voie claire de partage ou de deploiement."
+              body: "Vercel, Netlify, Replit Deployments, liens de partage Glide, publication Notion, Google Drive et liens de pr
             },
             {
-              title: "Couche qualite",
-              body: "Checklists de prompts, detection d'hallucinations, verification des sources, revue manuelle, revue par les pairs et criteres d'acceptation simples. Les debutants apprennent que la qualite vient d'un processus discipline, pas seulement du modele."
+              title: "Couche qualit
+              body: "Checklists de prompts, d
             }
           ],
-          tableTitle: "Outils recommandes par type de cours",
-          headers: ["Type de cours", "But principal", "Outils recommandes", "Preparation formateur", "Sortie etudiant"],
+          tableTitle: "Outils recommand
+          headers: ["Type de cours", "But principal", "Outils recommand
           rows: [
-            ["Discovery", "Inspiration plus jugement", "ChatGPT ou Copilot, Perplexity, Canva, Mentimeter ou Kahoot", "Preparer quatre prompts thematiques, un quiz, une checklist de pieges et un court pack de ressources", "Exemples de prompts, notes thematiques et liste personnelle d'idees de premiers usages"],
-            ["Cas d'usage", "Credibilite plus valeur mesurable", "ChatGPT ou Claude, Perplexity, Notion, Canva, Airtable ou Sheets", "Preparer quatre cas documentes, notes ROI, chaines de prompts et commentaires sur les risques", "Decorticages de cas, modeles de controle qualite et questions d'evaluation repetables"],
-            ["Atelier", "Construire et deployer", "Lovable ou Bolt, Replit, Glide, Softr, Airtable, Tally, Vercel ou Netlify", "Preparer un brief de build, un pack d'actifs, des prompts de secours, une checklist de test et une voie de deploiement", "Une app, un clone ou un mini outil operationnel fonctionnel avec lien partageable ou sortie prete pour demo"]
+            ["D
+            ["Cas d'usage", "Cr
+            ["Atelier", "Construire et d
           ],
-          logisticsTitle: "Checklist operationnelle",
+          logisticsTitle: "Checklist op
           logistics: [
-            "Un deck multilingue par semaine avec versions anglaise, francaise et espagnole alignees sur les memes exemples.",
-            "Un dossier pre-cours avec prompts, captures, references, donnees d'exemple et une route de demo de secours.",
-            "Une grille qualite standard: clarte, utilite, risque factuel, risque de marque, confidentialite et deployabilite.",
-            "Un recap post-cours avec prompts, ressources, lectures, magazines recommandes et teaser de la semaine suivante.",
-            "Un tunnel simple d'assiduite et de conversion de Discovery vers Cas d'usage, Atelier puis pass hebdomadaire."
+            "Un deck multilingue par semaine avec versions anglaise, fran
+            "Un dossier pr
+            "Une grille qualit
+            "Un r
+            "Un tunnel simple de conversion entre D
           ],
-          buildTitle: "Pattern d'implementation des ateliers",
+          buildTitle: "Pattern d'impl
           buildSteps: [
-            "Partir d'un probleme d'usage unique ancre dans le theme de la semaine.",
-            "Prompter un plan d'app initial avec pages, flux utilisateur et champs de donnees essentiels.",
-            "Generer une premiere version fonctionnelle rapidement, puis consacrer l'essentiel de la session a l'amelioration et a la QA.",
-            "Verifier la justesse factuelle, la securite et le ton de marque avant publication.",
-            "Publier une version legere et montrer aux etudiants comment la faire evoluer apres le cours."
+            "Partir d'un probl
+            "Prompter un plan initial d'application avec pages, flux utilisateur et champs de donn
+            "G
+            "V
+            "Publier une version l
           ]
         },
         pitch: {
-          title: "Textes de presentation en trois paragraphes",
-          note: "Rediges pour etre engageants et credibles sur LinkedIn, en legende Instagram, en email ou en presentation orale, sans donner une impression de gonflement marketing.",
+          title: "Textes de pr
+          note: "R
           cards: [
             {
               title: "Pitch du programme",
               paragraphs: [
-                "L'intelligence artificielle est devenue impossible a ignorer, mais pour beaucoup elle reste abstraite, intimidante ou survendue. Ce programme de masterclass s'adresse a des debutants complets qui veulent une entree pratique. Au lieu du jargon technique, il utilise des situations familières du travail, de la vie personnelle, de l'education et des petites structures pour montrer ou l'IA fait vraiment gagner du temps, ameliore la qualite et ouvre de nouvelles idees.",
-                "Chaque semaine suit une progression claire. Le lundi, Discovery rend le sujet facile a comprendre; le mercredi, les Cas d'usage montrent ou l'IA a deja produit des resultats mesurables; le vendredi, l'Atelier transforme l'apprentissage en build reel. L'objectif n'est pas seulement de parler d'IA. L'objectif est d'aider les participants a sortir du cours avec quelque chose d'utile qu'ils ont effectivement produit."
+                "L'intelligence artificielle est devenue impossible 
+                "Chaque semaine suit une progression claire. Le lundi, la D
+                "Le r
               ]
             },
             {
-              title: "Pitch Discovery",
+              title: "Pitch D
               paragraphs: [
-                "Discovery est la facon la plus simple d'entrer dans le programme. Il est pense pour les personnes curieuses de l'IA mais qui ne voient pas encore comment l'utiliser dans leur quotidien ou leur travail. Chaque session presente quatre usages modernes, creatifs et tres parlants de l'IA, dans un langage clair, sans prerequis technique.",
-                "Plutot que de presenter l'IA comme de la magie, Discovery montre d'abord le defi, puis compare les approches traditionnelles et les approches assistees par IA. Les participants apprennent ce qui fonctionne, ce qui ne fonctionne pas, ce qui peut mal tourner et comment mieux juger la valeur, la qualite et les limites.",
-                "Au bout d'une heure, les participants ont une meilleure idee de leur propre niveau de maturite IA, une liste courte d'outils et de ressources a explorer et plusieurs idees pratiques a tester immediatement. C'est peu de pression, beaucoup de valeur, et une excellente premiere etape vers un usage confiant de l'IA."
+                "La D
+                "Plut
+                "Au bout d'une heure, ils repartent avec une meilleure id
               ]
             },
             {
               title: "Pitch Cas d'usage",
               paragraphs: [
-                "Les Cas d'usage s'adressent aux personnes qui veulent des preuves, pas des slogans. Chaque session decortique quatre exemples recents et reels venant de l'entreprise, de l'associatif, de l'education et des services, ou l'IA a resolu un probleme significatif et produit des benefices visibles.",
-                "Les participants voient l'image complete: le defi initial, le risque de ne rien faire, les alternatives sans IA, les outils retenus, les prompts qui ont guide la sortie, les erreurs a corriger et le resultat final qui a cree de la valeur. L'IA parait alors moins mysterieuse et beaucoup plus maniable.",
-                "Pour les professionnels, les entrepreneurs et les decideurs, ces cours sont particulierement utiles parce qu'ils construisent un jugement pratique. Ils aident a reconnaitre ou l'IA vaut vraiment l'effort, comment eviter les sorties faibles ou dommageables et comment approcher l'implementation avec davantage de discipline."
+                "Les Cas d'usage s'adressent aux personnes qui veulent des preuves, pas des slogans. Chaque session d
+                "Les participants voient l'ensemble du tableau: le d
+                "Pour les professionnels, entrepreneurs et d
               ]
             },
             {
               title: "Pitch Atelier",
               paragraphs: [
-                "L'Atelier est le moment ou la theorie devient tangible. Chaque vendredi, les participants construisent une app legere, un clone ou un outil operationnel inspire d'un besoin reel. L'objectif n'est pas de produire un logiciel enterprise parfait. L'objectif est de prouver qu'un debutant peut passer du prompt a un resultat fonctionnel dans une session guidee.",
-                "Le format est volontairement pratique: pourquoi ce build compte, quels outils sont necessaires, comment structurer les prompts et comment reduire les hallucinations tout en augmentant l'utilite. Les participants suivent une methode repetable qui rend le processus moins aleatoire et plus transferable a leurs propres projets.",
-                "C'est souvent le moment ou la confiance change de forme. Au lieu de seulement comprendre ce que l'IA pourrait faire, les participants voient ce qu'eux-memes peuvent faire avec elle. Ils repartent avec quelque chose de visible, partageable et extensible, ce qui fait vraiment tenir l'apprentissage."
+                "L'Atelier est le moment o
+                "Le format est volontairement pratique: pourquoi ce build compte, quels outils utiliser, comment structurer les prompts et comment r
+                "C'est souvent 
               ]
             }
           ]
         },
         common: {
           audienceCardLabel: "Public",
-          outcomesLabel: "Resultats",
-          summaryLabel: "Resume",
-          monthlyThemes: "themes",
-          scheduleSummary: "Plan thematique glissant sur 12 mois",
-          quickFacts: ["Anglais", "Francais", "Espagnol", "Debutant d'abord", "En ligne + sur site", "Builds pratiques"]
+          outcomesLabel: "R
+          summaryLabel: "Synth
+          monthlyThemes: "th
+          scheduleSummary: "Plan th
+          quickFacts: ["Anglais", "Fran
         }
       },
       es: {
         brandEyebrow: "Impartido en tres idiomas",
         brandTitle: "Programa AI Masterclass",
-        navExecutive: "Vista ejecutiva",
-        navStructure: "Estructura y calendario",
-        navCurricula: "Curricula",
-        navTechnical: "Detalles tecnicos",
-        navPitch: "Textos de presentacion",
-        footerNote: "Preparado como documento de planificacion autonoma para un programa de masterclass de IA para principiantes durante 12 meses rotativos.",
+        navExecutive: "Vista Ejecutiva",
+        navStructure: "Estructura y Calendario",
+        navCurricula: "Curr
+        navTechnical: "Detalles T
+        navPitch: "Textos de Presentaci
+        footerNote: "Documento aut
         executive: {
-          heroEyebrow: "Proposito y posicionamiento",
-          heroTitle: "Un programa de IA pensado para principiantes que lleva de la curiosidad a una construccion funcional en una sola clase.",
-          heroLead: "Este programa esta pensado para principiantes absolutos que necesitan confianza practica, no teoria abstracta. Cada semana combina una lente Discovery, casos de uso reales y un workshop practico para que las personas participantes entiendan la IA en lenguaje claro, vean donde genera valor medible y terminen la semana pudiendo construir algo util por si mismas.",
+          heroEyebrow: "Prop
+          heroTitle: "Un programa de IA pensado para principiantes que convierte la curiosidad en una construcci
+          heroLead: "Este programa est
           kpis: [
-            { value: "52", label: "temas semanales a lo largo de 12 meses rotativos" },
-            { value: "3", label: "formatos de clase cada semana en ingles, frances y espanol" },
-            { value: "1", label: "construccion practica cada viernes con herramientas seguras para principiantes" },
-            { value: "25€", label: "pase semanal para cualquier combinacion de clases" }
+            { value: "52", label: "temas semanales durante 12 meses continuos" },
+            { value: "3", label: "formatos de clase cada semana en ingl
+            { value: "1", label: "construcci
+            { value: "25€", label: "pase semanal para cualquier combinaci
           ],
           sideCards: [
             {
               title: "Promesa central",
-              body: "Las personas participantes no salen con inspiracion vaga. Salen con prompts, workflows repetibles, un mini proyecto desplegado y una idea mucho mas clara de donde encaja la IA en su trabajo o en su vida personal."
+              body: "Los participantes no se van con una inspiraci
             },
             {
               title: "Enfoque docente",
-              body: "El tono es practico, contemporaneo y creible. El programa utiliza sectores cercanos, lenguaje simple, conversaciones honestas sobre limites y ejercicios que reducen el miedo mientras elevan el nivel."
+              body: "El tono es pr
             },
             {
-              title: "Logica comercial",
-              body: "La escalera semanal facilita una entrada de baja friccion por Discovery, una conviccion mas profunda por Case Studies y una conversion a capacidad mediante Workshops. El precio del pase fomenta la repeticion sin complicar la oferta."
+              title: "L
+              body: "La escalera semanal facilita una entrada de baja fricci
             }
           ],
           outcomesTitle: "Lo que este programa busca conseguir",
-          outcomesNote: "El principio de diseno es simple: cada clase debe sentirse valiosa por si sola, mientras que la secuencia semanal multiplica la confianza y la habilidad.",
+          outcomesNote: "El principio es simple: cada clase debe tener valor por s
           outcomes: [
-            "Hacer que la IA sea comprensible para personas adultas no tecnicas sin simplificar en exceso sus riesgos.",
-            "Dar a las personas participantes un marco repetible para evaluar cuando la IA ayuda, cuando no y como revisar las salidas.",
-            "Usar escenarios personales, profesionales, sociales y educativos muy cercanos para que los ejemplos se sientan utiles de inmediato.",
-            "Construir cada semana un proyecto desplegable para principiantes usando prompts, herramientas ligeras y una checklist de calidad clara.",
-            "Crear un efecto portfolio con el tiempo para que quienes repiten puedan mostrar progreso en publico o en entornos profesionales."
+            "Hacer que la IA sea comprensible para adultos no t
+            "Dar a los asistentes un marco repetible para evaluar cu
+            "Usar escenarios personales, empresariales, sociales y educativos muy cercanos para que los ejemplos se sientan inmediatamente 
+            "Construir cada semana un proyecto desplegable con prompts, herramientas ligeras y una lista clara de control de calidad.",
+            "Crear un efecto portfolio a lo largo del tiempo para que quienes repitan puedan demostrar progreso de forma p
           ],
-          principlesTitle: "Principios de diseno del programa",
+          principlesTitle: "Principios de dise
           principles: [
-            "Seguro para principiantes: no se asume experiencia de codigo, pero el contenido sigue siendo concreto y creible para perfiles tecnicos.",
-            "La vida real primero: cada semana se construye alrededor de un sector que cualquiera reconoce por trabajo, familia o rutina diaria.",
+            "Seguro para principiantes: no se asume experiencia t
+            "Primero la vida real: cada semana se organiza alrededor de un sector que cualquiera reconoce en su trabajo, familia o rutina.",
             "Realismo equilibrado: cada clase aborda alternativas, costes, alucinaciones, riesgos de mal uso y riesgos reputacionales.",
-            "Aprender construyendo: los workshops de los viernes convierten conceptos en una app, clon o herramienta operativa desplegable con rapidez.",
-            "Entrega multilingue: todos los materiales y la facilitacion se preparan en ingles, frances y espanol desde el primer dia."
+            "Aprender construyendo: los talleres del viernes convierten conceptos en una app, clon o herramienta operativa desplegable r
+            "Entrega multiling
           ],
-          audienceTitle: "Para quien es",
+          audienceTitle: "A qui
           audienceCards: [
-            { title: "Inicio de carrera", body: "Estudiantes, personas recien graduadas y perfiles en reconversion que quieren un portfolio de IA util y habitos listos para el empleo." },
-            { title: "Profesionales", body: "Managers, personal administrativo, consultoria, docencia, perfiles freelance y operadores que necesitan mejoras inmediatas de workflow." },
-            { title: "Organizaciones pequenas", body: "Pymes, ONG, asociaciones y centros educativos que quieren alfabetizacion en IA accesible sin un proyecto pesado de transformacion." },
-            { title: "Constructores curiosos", body: "Personas que no se consideran tecnicas, pero se motivan por resultados visibles y experimentacion guiada." }
+            { title: "Personas al inicio de carrera", body: "Estudiantes, reci
+            { title: "Profesionales", body: "Managers, perfiles administrativos, consultores, docentes, freelancers y operadores que necesitan mejoras inmediatas de flujo de trabajo." },
+            { title: "Organizaciones peque
+            { title: "Constructores curiosos", body: "Personas que quiz
           ]
         },
         structure: {
           title: "Estructura del programa, calendario, audiencia y precios",
-          note: "El plan siguiente asume un lanzamiento continuo en junio de 2026 y puede repetirse cada ano con ejemplos, casos y builds renovados.",
+          note: "El plan siguiente asume un lanzamiento continuo en junio de 2026 y puede repetirse cada a
           weeklyTitle: "Modelo operativo semanal",
-          weeklyTableHeaders: ["Dia", "Hora", "Formato", "Modo", "Precio"],
+          weeklyTableHeaders: ["D
           weeklyRows: [
             ["Lunes", "7:00 PM - 8:00 PM", "Discovery", "Online", "5€"],
             ["Lunes", "10:00 PM - 12:00 AM", "Discovery", "Online", "5€"],
-            ["Miercoles", "7:00 PM - 8:00 PM", "Case Studies", "Online", "10€"],
-            ["Miercoles", "10:00 PM - 12:00 AM", "Case Studies", "Online", "10€"],
+            ["Mi
+            ["Mi
             ["Viernes", "7:00 PM - 8:00 PM", "Workshop", "Presencial", "15€"],
             ["Viernes", "10:00 PM - 12:00 AM", "Workshop", "Online", "15€"]
           ],
-          pricingTitle: "Tabla de precios y politica",
+          pricingTitle: "Tabla de precios y pol
           pricingHeaders: ["Oferta", "Acceso", "Precio", "Condiciones"],
           pricingRows: [
             ["Entrada Discovery", "Una clase del lunes, online", "5€", "No reembolsable; la ausencia no es reembolsable."],
-            ["Entrada Case Study", "Una clase del miercoles, online", "10€", "No reembolsable; la ausencia no es reembolsable."],
+            ["Entrada Case Study", "Una clase del mi
             ["Entrada Workshop", "Una clase del viernes, online o presencial", "15€", "No reembolsable; la ausencia no es reembolsable."],
-            ["Pase semanal", "Cualquier combinacion de clases dentro de una misma semana", "25€", "La mejor opcion para una inmersion completa durante toda la semana."],
-            ["Politica por cancelacion del instructor", "Aplicable a cualquier clase cancelada", "Reembolso del 50%", "Si la persona instructora cancela la clase, se devuelve el 50% del importe pagado."]
+            ["Pase semanal", "Cualquier combinaci
+            ["Pol
           ],
-          audienceTitle: "Audiencia objetivo por intencion",
+          audienceTitle: "Audiencia objetivo por intenci
           audience: [
-            "Principiantes absolutos que necesitan un punto de entrada sin presion al mundo de la IA.",
-            "Profesionales que quieren ver casos de uso practicos antes de invertir en herramientas o formaciones mayores.",
-            "Emprendedores y perfiles freelance que quieren crear activos, contenido y sistemas ligeros con mayor rapidez.",
-            "Docentes, equipos de ONG y liderazgos comunitarios que buscan aplicaciones responsables y accesibles de la IA."
+            "Principiantes absolutos que necesitan una entrada sencilla al mundo de la IA.",
+            "Profesionales que quieren ver casos pr
+            "Emprendedores y freelancers que desean crear activos, contenido y sistemas ligeros con mayor rapidez.",
+            "Docentes, equipos de ONG y l
           ],
           calendarTitle: "Calendario semanal de 12 meses",
-          calendarNote: "Cada semana usa un tema muy reconocible. Discovery introduce cuatro usos de ejemplo, Case Studies aporta cuatro ejemplos medibles y Workshop convierte el tema en una app o clon practico.",
+          calendarNote: "Cada semana gira en torno a un tema muy reconocible. Discovery introduce cuatro usos, Case Studies aporta cuatro ejemplos medibles y Workshop convierte el tema en una app o clon pr
           monthToggleOpen: "Abrir mes",
           monthToggleClose: "Cerrar mes",
           weekLabel: "Semana",
-          weekCols: ["Destacados de Discovery", "Angulos de casos", "Construccion del workshop"]
+          weekCols: ["Destacados de Discovery", "Enfoques de casos", "Construcci
         },
         curricula: {
-          title: "Curricula y estructura detallada de clase",
-          note: "Los planes de clase mantienen un ritmo constante mientras adaptan los ejemplos y el reto de construccion al tema semanal.",
+          title: "Curr
+          note: "Los planes de clase mantienen un ritmo constante mientras adaptan los ejemplos y el reto de construcci
           cards: [
             {
               title: "Discovery",
-              subtitle: "Generar confianza rapida para principiantes",
-              summary: "Discovery es la puerta de entrada accesible. Muestra lo que la IA moderna puede hacer por personas corrientes en contextos corrientes sin asumir conocimiento tecnico.",
+              subtitle: "Generar confianza r
+              summary: "Discovery es la puerta de entrada m
               steps: [
-                "Bienvenida, marco de la semana y una Q&A rapida o quiz ludico sobre madurez en IA.",
-                "Introduccion a cuatro muestras del tema que enseñan usos innovadores pero practicos de la IA para personas no tecnicas.",
-                "Para cada ejemplo: el reto, las alternativas sin IA, la respuesta con IA, los errores frecuentes, las limitaciones y las recomendaciones de buenas practicas.",
-                "Quiz y conversacion sobre como resolverian un reto similar.",
-                "Cierre con consejos, recursos online, revistas de IA recomendadas y puente hacia los casos del miercoles."
+                "Bienvenida, marco de la semana y una Q&A r
+                "Introducci
+                "Para cada ejemplo: el reto, las alternativas sin IA, la respuesta con IA, las trampas habituales, las limitaciones y las mejores pr
+                "Quiz y conversaci
+                "Cierre con consejos, recursos online, revistas de IA recomendadas y puente hacia los casos del mi
               ],
-              outcomes: ["Reducir el miedo", "Mejorar el criterio", "Activar ideas", "Impulsar primeros experimentos"]
+              outcomes: ["Reducir el miedo", "Mejorar el criterio", "Activar ideas", "Fomentar primeros experimentos"]
             },
             {
               title: "Case Study",
               subtitle: "Demostrar valor con resultados concretos",
-              summary: "Case Studies traduce la curiosidad en credibilidad. Muestra situaciones recientes de empresa, ONG, pyme y educacion donde la IA entrego ganancias medibles.",
+              pricingHeaders: ["Offre", "Accès", "Prix", "Conditions"],
               steps: [
-                "Bienvenida, toma de pulso rapida y un breve quiz sobre habitos o supuestos actuales en IA.",
-                "Introduccion a cuatro escenarios recientes y reales con contexto claro y beneficios medibles.",
-                "Para cada caso: el reto inicial, las consecuencias de no actuar, las alternativas sin IA con analisis coste-beneficio, la pila de IA usada, los prompts y la logica agentica, las correcciones de alucinaciones y el resultado final.",
-                "Discusion de riesgos de mal uso, riesgo reputacional, preocupaciones de gobernanza y controles de calidad.",
-                "Cierre con lectura adicional, playbooks del instructor, recomendaciones de siguiente paso y transicion hacia el build del viernes."
+                "Bienvenida, toma de pulso r
+                "Introducci
+                "Para cada caso: el reto inicial, las consecuencias de no actuar, las alternativas sin IA con an
+                ["Pass hebdomadaire", "Toute combinaison de cours sur une semaine", "25€", "Option la plus avantageuse pour une immersion sur la semaine complète."],
+                ["Politique d'annulation formateur", "Applicable à tout cours annulé", "Remboursement 50%", "Si le formateur annule le cours, 50% du montant payé est remboursé."]
               ],
-              outcomes: ["Generar confianza", "Mostrar ROI", "Ensenar evaluacion", "Normalizar el control de calidad"]
+              outcomes: ["Generar confianza", "Mostrar ROI", "Ense
             },
-            {
-              title: "Workshop",
-              subtitle: "Construir un proyecto funcional dentro de clase",
-              summary: "El workshop es donde los principiantes se convierten en personas constructoras. Cada semana la clase crea una app ligera, un clon o una herramienta operativa alrededor del tema semanal.",
+                "Débutants complets qui ont besoin d'un point d'entrée serein dans l'IA.",
+                "Professionnels à la recherche de cas d'usage concrets avant d'investir dans des outils ou des formations plus lourds.",
+                "Entrepreneurs et indépendants qui veulent produire plus vite des actifs, des contenus et des systèmes légers.",
+                "Enseignants, équipes associatives et leaders communautaires en recherche d'applications responsables et accessibles de l'IA."
               steps: [
-                "Bienvenida, breve Q&A e introduccion a la solucion practica que se construira en la sesion.",
-                "Revision del reto y de por que la IA es util para esta tarea.",
-                "El metodo: por que este build importa, que herramientas y agentes se necesitan, como se estructuran los prompts y que debe comprobarse para reducir alucinaciones y llegar a un resultado util.",
-                "Construccion en vivo, pruebas incrementales, pulido y orientacion simple para publicar o compartir.",
-                "Cierre con revision final, buenas practicas, recursos e ideas para extender el build despues de clase."
+                "Bienvenida, breve Q&A e introducci
+              calendarNote: "Chaque semaine prend un thème très parlant. Discovery introduit quatre usages, les Cas d'usage apportent quatre exemples mesurables et l'Atelier transforme le thème en app ou clone pratique.",
+                "El m
+                "Construcci
+                "Cierre con mejores pr
               ],
               outcomes: ["Crear algo real", "Practicar prompting", "Entender QA", "Salir con un activo de portfolio"]
             }
-          ],
-          teachingTitle: "Mecanica docente comun a todos los formatos",
+              title: "Curricula et structure détaillée des cours",
+              note: "Les plans de cours gardent un rythme constant tout en adaptant les exemples et le défi de build au thème de la semaine.",
           teaching: [
-            "Cada sesion empieza con interaccion para medir madurez y mantener la sala activa en lugar de pasiva.",
-            "Los ejemplos se eligen por puntos de presion muy reconocibles: velocidad, coste, carga administrativa, calidad del servicio y claridad de comunicacion.",
-            "Cada historia de exito con IA se acompana de limitaciones, controles de calidad y una conversacion realista sobre mal uso.",
-            "El workshop del viernes siempre termina con una salida utilizable, aunque sea simplificada, para que el alumnado recorra un ciclo completo."
+            "Cada sesi
+            "Los ejemplos se eligen por sus puntos de presi
+                  subtitle: "Construire rapidement la confiance des débutants",
+                  summary: "Discovery est la porte d'entrée accessible. Il montre ce que l'IA moderne peut faire pour des personnes ordinaires dans des contextes ordinaires sans supposer de connaissances techniques.",
           ]
-        },
-        technical: {
-          title: "Detalles tecnicos y stack de implementacion",
-          note: "El stack se mantiene intencionalmente ligero. La idea no es abrumar a principiantes, sino ayudarles a completar trabajo creible y desplegable en una sola sesion.",
-          stackCards: [
+                    "Accueil, cadrage de la semaine et Q&R rapide ou quiz ludique sur la maturité IA.",
+                    "Introduction à quatre cas du thème montrant des usages innovants mais pratiques de l'IA pour des personnes non techniques.",
+                    "Pour chaque exemple: le défi, les alternatives sans IA, la réponse assistée par IA, les pièges fréquents, les limites et les recommandations de bonnes pratiques.",
+                    "Quiz et discussion sur la façon dont les participants résoudraient un défi similaire.",
+                    "Clôture avec conseils, ressources en ligne, magazines IA recommandés et pont vers les cas d'usage du mercredi."
             {
-              title: "Asistentes de IA principales",
-              body: "ChatGPT, Claude, Gemini o Microsoft Copilot para prompting, redaccion, comparacion y critica. El modelo docente es agnostico respecto a la herramienta para adaptarse al asistente que cada estudiante ya utiliza."
+                  outcomes: ["Réduire la peur", "Améliorer le jugement", "Déclencher des idées", "Encourager les premiers essais"]
+              body: "ChatGPT, Claude, Gemini o Microsoft Copilot para prompting, redacci
             },
             {
-              title: "Capa de construccion",
-              body: "Constructores no-code o low-code como Lovable, Bolt, Replit, Glide, Softr, Notion, Airtable, Canva y Tally. Se eligen porque reducen mucho la distancia entre prompt y resultado visible."
+                  subtitle: "Prouver la valeur par des résultats concrets",
+                  summary: "Les Cas d'usage transforment la curiosité en crédibilité. Ils montrent des situations récentes dans l'entreprise, l'associatif, les PME et l'éducation où l'IA a produit des gains mesurables.",
             },
-            {
-              title: "Capa de publicacion",
-              body: "Vercel, Netlify, Replit Deployments, enlaces de Glide, publicacion de Notion, Google Drive y enlaces de Canva. Cada workshop termina con un camino claro hacia compartir o desplegar el resultado."
-            },
-            {
+                    "Accueil, prise de température rapide et court quiz sur les habitudes ou hypothèses actuelles en IA.",
+                    "Introduction à quatre scénarios récents et réels avec un contexte clair et des bénéfices mesurables.",
+                    "Pour chaque cas: le défi initial, le coût de l'inaction, les alternatives sans IA avec analyse coût-valeur, la pile IA retenue, les prompts et la logique agentique, les corrections d'hallucinations et le résultat final.",
+                    "Discussion sur les risques de mauvais usage, les risques de réputation, les sujets de gouvernance et les contrôles qualité.",
+                    "Clôture avec lecture complémentaire, playbooks du formateur, recommandations de suite et passage vers le build du vendredi."
               title: "Capa de calidad",
-              body: "Checklists de prompts, deteccion de alucinaciones, verificacion de fuentes, revision manual, revision entre pares y criterios de aceptacion simples. Se ensena que la calidad depende de la disciplina del proceso, no solo del modelo."
+                  outcomes: ["Installer la confiance", "Montrer le ROI", "Enseigner l'évaluation", "Normaliser le contrôle qualité"]
             }
           ],
           tableTitle: "Herramientas recomendadas por tipo de clase",
-          headers: ["Tipo de clase", "Objetivo principal", "Herramientas recomendadas", "Preparacion del instructor", "Salida del estudiante"],
-          rows: [
-            ["Discovery", "Inspiracion mas criterio", "ChatGPT o Copilot, Perplexity, Canva, Mentimeter o Kahoot", "Preparar cuatro prompts tematicos, un quiz, una checklist de errores y un paquete corto de recursos", "Ejemplos de prompts, notas de tema y una lista personal de ideas para primeros usos"],
-            ["Case Study", "Credibilidad mas valor medible", "ChatGPT o Claude, Perplexity, Notion, Canva, Airtable o Sheets", "Preparar cuatro casos documentados, notas de ROI, cadenas de prompts y comentarios de riesgo", "Desgloses de casos, plantillas de control de calidad y preguntas de evaluacion repetibles"],
-            ["Workshop", "Construir y desplegar", "Lovable o Bolt, Replit, Glide, Softr, Airtable, Tally, Vercel o Netlify", "Preparar un brief de build, un paquete de activos, prompts de respaldo, checklist de pruebas y ruta de despliegue", "Una app, clon o mini herramienta operativa funcional con enlace compartible o resultado listo para demo"]
+                  subtitle: "Construire un projet fonctionnel pendant le cours",
+                  summary: "L'atelier est le moment où les débutants deviennent des makers. Chaque semaine, la classe construit une app légère, un clone ou un outil opérationnel autour du thème de la semaine.",
+            ["Discovery", "Inspiraci
+                    "Accueil, courte Q&R et présentation de la solution pratique à construire pendant la session.",
+                    "Revue du défi et de la raison pour laquelle l'IA est utile pour cette mission.",
+                    "La méthode: pourquoi ce build compte, quels outils et agents sont nécessaires, comment structurer les prompts et ce qu'il faut vérifier pour réduire les hallucinations et obtenir un résultat utile.",
+                    "Construction en direct, tests incrémentaux, finitions et indications simples de publication ou de partage.",
+                    "Clôture avec revue finale, bonnes pratiques, ressources et pistes pour faire évoluer le build après le cours."
+            "Un deck multiling
+                  outcomes: ["Produire quelque chose de réel", "Pratiquer le prompting", "Comprendre la QA", "Repartir avec un actif de portfolio"]
+            "Una r
+            "Un resumen posterior a la clase con prompts, recursos, lecturas, revistas recomendadas y teaser de la semana siguiente.",
+              teachingTitle: "Mécanique pédagogique commune à tous les formats",
           ],
-          logisticsTitle: "Checklist operativa",
-          logistics: [
-            "Un deck multilingue por semana con versiones en ingles, frances y espanol alineadas sobre los mismos ejemplos.",
-            "Una carpeta previa a la clase con prompts, capturas, referencias, datos de muestra y una ruta de demo de respaldo.",
-            "Una rubrica estandar de calidad: claridad, utilidad, riesgo factual, riesgo de marca, privacidad y desplegabilidad.",
-            "Un recap posterior a la clase con prompts, recursos, lecturas, revistas recomendadas y teaser de la semana siguiente.",
-            "Un embudo simple de asistencia y conversion desde Discovery hacia Case Study, Workshop y pase semanal."
-          ],
-          buildTitle: "Patron de implementacion del workshop",
-          buildSteps: [
-            "Partir de un problema de uso unico anclado en el tema de la semana.",
-            "Promptear un plan inicial de app con paginas, flujo de usuario y campos de datos esenciales.",
-            "Generar una primera version funcional rapidamente y dedicar la mayor parte de la sesion al refinamiento y la QA.",
+                "Chaque session commence par de l'interaction pour évaluer la maturité et garder le groupe actif plutôt que passif.",
+                "Les exemples sont choisis pour des points de tension très concrets: vitesse, coût, charge administrative, qualité de service et clarté de communication.",
+                "Chaque succès IA est mis en regard de ses limites, de contrôles qualité et d'une discussion réaliste sur les mauvais usages.",
+                "L'atelier du vendredi se termine toujours par un livrable utilisable, même simplifié, afin que l'étudiant vive une boucle complète."
+            "Generar r
             "Comprobar exactitud factual, seguridad y tono de marca antes de publicar.",
-            "Publicar una version ligera y mostrar al alumnado como evolucionarla despues de clase."
-          ]
-        },
+            "Publicar una versi
+              title: "Détails techniques et outillage d'implémentation",
+              note: "L'outillage reste volontairement léger. L'objectif n'est pas d'écraser les débutants, mais de les aider à produire un travail crédible et déployable en une session.",
         pitch: {
-          title: "Textos de presentacion en tres parrafos",
-          note: "Escritos para sonar atractivos y creibles en LinkedIn, captions de Instagram, outreach por email o presentacion oral, sin inflar el mensaje.",
-          cards: [
+          title: "Textos de presentaci
+          note: "Escritos para resultar atractivos y cre
+                  body: "ChatGPT, Claude, Gemini ou Microsoft Copilot pour le prompting, la rédaction, la comparaison et la critique. Le modèle pédagogique reste agnostique à l'outil afin que la classe s'adapte à l'assistant déjà utilisé par l'étudiant."
             {
-              title: "Pitch del curso",
+              title: "Pitch del programa",
               paragraphs: [
-                "La inteligencia artificial se ha vuelto imposible de ignorar, pero para muchas personas sigue pareciendo abstracta, intimidante o exagerada. Este programa de masterclass esta construido para principiantes absolutos que quieren una entrada practica. En lugar de jerga tecnica, usa situaciones familiares del trabajo, la vida personal, la educacion y las pequenas organizaciones para mostrar donde la IA realmente ahorra tiempo, mejora la calidad y abre nuevas ideas.",
-                "Cada semana esta estructurada como una progresion. El lunes, Discovery hace que el tema sea facil de entender; el miercoles, Case Studies muestra donde la IA ya produjo resultados medibles; y el viernes, Workshop convierte el aprendizaje en una construccion real. La meta no es solo hablar de IA. La meta es ayudar a las personas a salir de clase habiendo creado algo util con ella.",
-                "El resultado es un programa serio sin sentirse pesado. Las personas participantes ganan confianza, criterio y produccion practica al mismo tiempo. Ya sea para mejorar su perfil profesional, optimizar un workflow, lanzar un proyecto paralelo o simplemente dejar de sentirse rezagadas, este curso les da un camino claro y creible."
+                  body: "Des outils no-code ou low-code comme Lovable, Bolt, Replit, Glide, Softr, Notion, Airtable, Canva et Tally. Ils sont retenus parce qu'ils raccourcissent fortement le chemin entre le prompt et un résultat visible."
+                "Cada semana sigue una progresi
+                "El resultado es un programa serio sin resultar pesado. Los participantes ganan confianza, criterio y resultados pr
               ]
-            },
+                  body: "Vercel, Netlify, Replit Deployments, liens de partage Glide, publication Notion, Google Drive et liens Canva. Chaque atelier se termine avec une voie claire de partage ou de déploiement."
             {
-              title: "Pitch Discovery",
-              paragraphs: [
-                "Discovery es la forma mas facil de entrar al programa. Esta pensado para personas curiosas por la IA que todavia no saben donde encaja en su vida diaria o en su trabajo. Cada sesion presenta cuatro usos modernos, creativos y muy cercanos de la IA en lenguaje claro, sin necesidad de base tecnica.",
-                "En lugar de presentar la IA como magia, Discovery muestra primero el reto y despues compara alternativas tradicionales con enfoques asistidos por IA. El alumnado aprende que funciona, que no funciona, que puede salir mal y como pensar con mas claridad sobre valor, calidad y limites.",
-                "Al terminar la hora, las personas participantes tienen una idea mas fuerte de su propio nivel de madurez en IA, una lista corta de herramientas y recursos para explorar, y varias ideas practicas que pueden probar de inmediato. Es baja presion, alto valor y un primer paso ideal hacia un uso confiado de la IA."
-              ]
-            },
+              title: "Pitch de Discovery",
+                  title: "Couche qualité",
+                  body: "Checklists de prompts, détection d'hallucinations, vérification des sources, revue manuelle, revue par les pairs et critères d'acceptation simples. Les débutants apprennent que la qualité vient d'un processus discipliné, pas seulement du modèle."
+                "En vez de presentar la IA como magia, Discovery muestra primero el reto y luego compara las alternativas tradicionales con los enfoques asistidos por IA. Los estudiantes aprenden qu
+                "Al terminar la hora, los participantes cuentan con una mejor idea de su nivel de madurez en IA, una selecci
+              tableTitle: "Outils recommandés par type de cours",
+              headers: ["Type de cours", "But principal", "Outils recommandés", "Préparation formateur", "Sortie étudiant"],
             {
-              title: "Pitch Case Study",
-              paragraphs: [
-                "Case Studies es para quienes quieren evidencia, no esloganes. Cada sesion desglosa cuatro ejemplos recientes y reales procedentes de empresa, ONG, educacion y servicios donde la IA resolvio un problema importante y produjo beneficios visibles.",
-                "El alumnado ve la imagen completa: el reto original, el riesgo de no hacer nada, las alternativas sin IA, la herramienta elegida, los prompts que dieron forma al resultado, los errores que hubo que corregir y la salida final que genero valor. Esto hace que la IA se sienta menos misteriosa y mucho mas manejable.",
-                "Para profesionales, emprendedores y responsables de decision, estas clases son especialmente utiles porque construyen juicio practico. Ayudan a reconocer donde merece la pena usar IA, como evitar dano reputacional o resultados debiles y como abordar la implementacion con mas disciplina."
+                ["Discovery", "Inspiration plus jugement", "ChatGPT ou Copilot, Perplexity, Canva, Mentimeter ou Kahoot", "Préparer quatre prompts thématiques, un quiz, une checklist de pièges et un court pack de ressources", "Exemples de prompts, notes thématiques et liste personnelle d'idées de premiers usages"],
+                ["Cas d'usage", "Crédibilité plus valeur mesurable", "ChatGPT ou Claude, Perplexity, Notion, Canva, Airtable ou Sheets", "Préparer quatre cas documentés, notes ROI, chaînes de prompts et commentaires sur les risques", "Décorticages de cas, modèles de contrôle qualité et questions d'évaluation répétables"],
+                ["Atelier", "Construire et déployer", "Lovable ou Bolt, Replit, Glide, Softr, Airtable, Tally, Vercel ou Netlify", "Préparer un brief de build, un pack d'actifs, des prompts de secours, une checklist de test et une voie de déploiement", "Une app, un clone ou un mini outil opérationnel fonctionnel avec lien partageable ou sortie prête pour demo"]
+                "Los participantes ven la imagen completa: el reto original, los riesgos de no hacer nada, las alternativas sin IA, las herramientas elegidas, los prompts que guiaron el trabajo, los errores que hubo que corregir y el resultado final que gener
+              logisticsTitle: "Checklist opérationnelle",
               ]
-            },
-            {
-              title: "Pitch Workshop",
-              paragraphs: [
-                "Workshop es donde la teoria se vuelve tangible. Cada viernes, el alumnado construye una app ligera, un clon o una herramienta operativa inspirada en una necesidad real. La meta no es producir software enterprise perfecto. La meta es demostrar que incluso una persona principiante puede pasar del prompt a un resultado funcional en una sesion guiada.",
-                "El formato es deliberadamente practico: por que importa este build, que herramientas se necesitan, como estructurar los prompts y como reducir alucinaciones mientras se mejora la utilidad. El alumnado sigue un metodo repetible que hace que el proceso se sienta menos aleatorio y mucho mas transferible a sus propios proyectos.",
-                "Suele ser el momento en que la confianza cambia de forma. En vez de solo entender lo que la IA podria hacer, las personas participantes ven lo que ellas mismas pueden hacer con ella. Se van con algo visible, compartible y extensible, que es exactamente lo que hace que el aprendizaje permanezca."
+                "Un deck multilingue par semaine avec versions anglaise, française et espagnole alignées sur les mêmes exemples.",
+                "Un dossier pré-cours avec prompts, captures, références, données d'exemple et une route de demo de secours.",
+                "Une grille qualité standard: clarté, utilité, risque factuel, risque de marque, confidentialité et déployabilité.",
+                "Un récap post-cours avec prompts, ressources, lectures, magazines recommandés et teaser de la semaine suivante.",
+                "Un tunnel simple d'assiduité et de conversion de Discovery vers Cas d'usage, Atelier puis pass hebdomadaire."
+                "El formato es deliberadamente pr
+              buildTitle: "Pattern d'implémentation des ateliers",
               ]
-            }
-          ]
-        },
-        common: {
-          audienceCardLabel: "Audiencia",
+                "Partir d'un problème d'usage unique ancré dans le thème de la semaine.",
+                "Prompter un plan d'app initial avec pages, flux utilisateur et champs de données essentiels.",
+                "Générer une première version fonctionnelle rapidement, puis consacrer l'essentiel de la session à l'amélioration et à la QA.",
+                "Vérifier la justesse factuelle, la sécurité et le ton de marque avant publication.",
+                "Publier une version légère et montrer aux étudiants comment la faire évoluer après le cours."
           outcomesLabel: "Resultados",
           summaryLabel: "Resumen",
           monthlyThemes: "temas",
-          scheduleSummary: "Plan tematico rotativo de 12 meses",
-          quickFacts: ["Ingles", "Frances", "Espanol", "Pensado para principiantes", "Online + presencial", "Builds practicos"]
+              title: "Textes de présentation en trois paragraphes",
+              note: "Rédigés pour être engageants et crédibles sur LinkedIn, en légende Instagram, en email ou en présentation orale, sans donner une impression de gonflement marketing.",
         }
       }
     };
 
-    const state = {
-      lang: "en",
+                    "L'intelligence artificielle est devenue impossible à ignorer, mais pour beaucoup elle reste abstraite, intimidante ou survendue. Ce programme de masterclass s'adresse à des débutants complets qui veulent une entrée pratique. Au lieu du jargon technique, il utilise des situations familières du travail, de la vie personnelle, de l'éducation et des petites structures pour montrer où l'IA fait vraiment gagner du temps, améliore la qualité et ouvre de nouvelles idées.",
+                    "Chaque semaine suit une progression claire. Le lundi, Discovery rend le sujet facile à comprendre; le mercredi, les Cas d'usage montrent où l'IA a déjà produit des résultats mesurables; le vendredi, l'Atelier transforme l'apprentissage en build réel. L'objectif n'est pas seulement de parler d'IA. L'objectif est d'aider les participants à sortir du cours avec quelque chose d'utile qu'ils ont effectivement produit.",
+                    "Le résultat est un programme sérieux sans devenir lourd. Les participants gagnent en confiance, en jugement et en production pratique en même temps. Qu'il s'agisse d'affûter un profil professionnel, d'améliorer un workflow, de lancer un projet parallèle ou simplement de ne plus se sentir en retard, ce cours propose une trajectoire claire et crédible."
       tab: "executive"
     };
 
+    const textRepairs = [
+      ["Aofbt", "Ao\u00fbt"],
+                    "Discovery est la façon la plus simple d'entrer dans le programme. Il est pensé pour les personnes curieuses de l'IA mais qui ne voient pas encore comment l'utiliser dans leur quotidien ou leur travail. Chaque session présente quatre usages modernes, créatifs et très parlants de l'IA, dans un langage clair, sans prérequis technique.",
+                    "Plutôt que de présenter l'IA comme de la magie, Discovery montre d'abord le défi, puis compare les approches traditionnelles et les approches assistées par IA. Les participants apprennent ce qui fonctionne, ce qui ne fonctionne pas, ce qui peut mal tourner et comment mieux juger la valeur, la qualité et les limites.",
+                    "Au bout d'une heure, les participants ont une meilleure idée de leur propre niveau de maturité IA, une liste courte d'outils et de ressources à explorer et plusieurs idées pratiques à tester immédiatement. C'est peu de pression, beaucoup de valeur, et une excellente première étape vers un usage confiant de l'IA."
+      ["salf3n", "sal\u00f3n"],
+      ["cafetereda", "cafeter\u00eda"],
+      ["barbereda", "barber\u00eda"],
+      ["consultoreda", "consultor\u00eda"],
+      ["conserjereda", "conserjer\u00eda"],
+                    "Les Cas d'usage s'adressent aux personnes qui veulent des preuves, pas des slogans. Chaque session décortique quatre exemples récents et réels venant de l'entreprise, de l'associatif, de l'éducation et des services, où l'IA a résolu un problème significatif et produit des bénéfices visibles.",
+                    "Les participants voient l'image complète: le défi initial, le risque de ne rien faire, les alternatives sans IA, les outils retenus, les prompts qui ont guidé la sortie, les erreurs à corriger et le résultat final qui a créé de la valeur. L'IA paraît alors moins mystérieuse et beaucoup plus maniable.",
+                    "Pour les professionnels, les entrepreneurs et les décideurs, ces cours sont particulièrement utiles parce qu'ils construisent un jugement pratique. Ils aident à reconnaître où l'IA vaut vraiment l'effort, comment éviter les sorties faibles ou dommageables et comment approcher l'implémentation avec davantage de discipline."
+      ["Guedas", "Gu\u00edas"],
+      ["gueda", "gu\u00eda"],
+      ["guedas", "gu\u00edas"],
+      ["clednica", "cl\u00ednica"],
+      ["resfamen", "resumen"],
+                    "L'Atelier est le moment où la théorie devient tangible. Chaque vendredi, les participants construisent une app légère, un clone ou un outil opérationnel inspiré d'un besoin réel. L'objectif n'est pas de produire un logiciel enterprise parfait. L'objectif est de prouver qu'un débutant peut passer du prompt à un résultat fonctionnel dans une session guidée.",
+                    "Le format est volontairement pratique: pourquoi ce build compte, quels outils sont nécessaires, comment structurer les prompts et comment réduire les hallucinations tout en augmentant l'utilité. Les participants suivent une méthode répétable qui rend le processus moins aléatoire et plus transférable à leurs propres projets.",
+                    "C'est souvent le moment où la confiance change de forme. Au lieu de seulement comprendre ce que l'IA pourrait faire, les participants voient ce qu'eux-mêmes peuvent faire avec elle. Ils repartent avec quelque chose de visible, partageable et extensible, ce qui fait vraiment tenir l'apprentissage."
+      ["confe9rence", "conf\u00e9rence"],
+      ["synth", "synth"],
+      ["the9rapie", "th\u00e9rapie"],
+      ["hue9spedes", "hu\u00e9spedes"],
+      ["disef1ador", "dise\u00f1ador"],
+      ["compaf1ero", "compa\u00f1ero"],
+              outcomesLabel: "Résultats",
+              summaryLabel: "Résumé",
+              monthlyThemes: "thèmes",
+              scheduleSummary: "Plan thématique glissant sur 12 mois",
+              quickFacts: ["Anglais", "Français", "Espagnol", "Débutant d'abord", "En ligne + sur site", "Builds pratiques"]
+      ["he1bitos", "h\u00e1bitos"],
+      ["bene9fica", "ben\u00e9fica"],
+      ["subvencif3n", "subvenci\u00f3n"]
+            brandEyebrow: "Impartido en tres idiomas",
+
     function cleanText(value) {
-      if (typeof value !== "string") {
+      if (typeof value !== "string" || state.lang === "en") {
         return value;
-      }
+            navTechnical: "Detalles técnicos",
+            navPitch: "Textos de presentación",
+            footerNote: "Preparado como documento de planificación autónoma para un programa de masterclass de IA para principiantes durante 12 meses rotativos.",
 
-      return value.replace(/\u0000/g, "");
-    }
+              heroEyebrow: "Propósito y posicionamiento",
+              heroTitle: "Un programa de IA pensado para principiantes que lleva de la curiosidad a una construcción funcional en una sola clase.",
+              heroLead: "Este programa está pensado para principiantes absolutos que necesitan confianza práctica, no teoría abstracta. Cada semana combina una lente Discovery, casos de uso reales y un workshop práctico para que las personas participantes entiendan la IA en lenguaje claro, vean dónde genera valor medible y terminen la semana pudiendo construir algo útil por sí mismas.",
 
-    function cleanValue(value) {
+      output = output
+                { value: "3", label: "formatos de clase cada semana en inglés, francés y español" },
+                { value: "1", label: "construcción práctica cada viernes con herramientas seguras para principiantes" },
+                { value: "25€", label: "pase semanal para cualquier combinación de clases" }
+        .replace(/e6/g, "\u00e6")
+        .replace(/e5/g, "\u00e5")
+        .replace(/e4/g, "\u00e4")
+        .replace(/e3/g, "\u00e3")
+                  body: "Las personas participantes no salen con inspiración vaga. Salen con prompts, workflows repetibles, un mini proyecto desplegado y una idea mucho más clara de dónde encaja la IA en su trabajo o en su vida personal."
+        .replace(/e1/g, "\u00e1")
+        .replace(/e0/g, "\u00e0")
+        .replace(/ed/g, "\u00ed")
+                  body: "El tono es práctico, contemporáneo y creíble. El programa utiliza sectores cercanos, lenguaje simple, conversaciones honestas sobre límites y ejercicios que reducen el miedo mientras elevan el nivel."
+        .replace(/ef/g, "\u00ef")
+        .replace(/ee/g, "\u00ee")
+                  title: "Lógica comercial",
+                  body: "La escalera semanal facilita una entrada de baja fricción por Discovery, una convicción más profunda por Case Studies y una conversión a capacidad mediante Workshops. El precio del pase fomenta la repetición sin complicar la oferta."
+        .replace(/f4/g, "\u00f4")
+        .replace(/f3/g, "\u00f3")
+        .replace(/f2/g, "\u00f2")
+              outcomesNote: "El principio de diseño es simple: cada clase debe sentirse valiosa por sí sola, mientras que la secuencia semanal multiplica la confianza y la habilidad.",
+        .replace(/fc/g, "\u00fc")
+                "Hacer que la IA sea comprensible para personas adultas no técnicas sin simplificar en exceso sus riesgos.",
+                "Dar a las personas participantes un marco repetible para evaluar cuándo la IA ayuda, cuándo no y cómo revisar las salidas.",
+                "Usar escenarios personales, profesionales, sociales y educativos muy cercanos para que los ejemplos se sientan útiles de inmediato.",
+                "Construir cada semana un proyecto desplegable para principiantes usando prompts, herramientas ligeras y una checklist de calidad clara.",
+                "Crear un efecto portfolio con el tiempo para que quienes repiten puedan mostrar progreso en público o en entornos profesionales."
+
+              principlesTitle: "Principios de diseño del programa",
       if (Array.isArray(value)) {
-        return value.map((item) => cleanValue(item));
+                "Seguro para principiantes: no se asume experiencia de código, pero el contenido sigue siendo concreto y creíble para perfiles técnicos.",
       }
-
-      if (value && typeof value === "object") {
-        return Object.fromEntries(Object.entries(value).map(([key, item]) => [key, cleanValue(item)]));
+                "Realismo equilibrado: cada clase aborda alternativas, costes, alucinaciones, riesgos de mal uso y riesgos reputacionales.",
+                "Aprender construyendo: los workshops de los viernes convierten conceptos en una app, clon o herramienta operativa desplegable con rapidez.",
+                "Entrega multilingüe: todos los materiales y la facilitación se preparan en inglés, francés y español desde el primer día."
       }
-
+              audienceTitle: "Para quién es",
       return cleanText(value);
-    }
+                { title: "Inicio de carrera", body: "Estudiantes, personas recién graduadas y perfiles en reconversión que quieren un portfolio de IA útil y hábitos listos para el empleo." },
 
-    function renderTags(items) {
-      return `<div class="mini-tags">${items.map((item) => `<span class="mini-tag">${cleanText(item)}</span>`).join("")}</div>`;
+                { title: "Organizaciones pequeñas", body: "Pymes, ONG, asociaciones y centros educativos que quieren alfabetización en IA accesible sin un proyecto pesado de transformación." },
+                { title: "Constructores curiosos", body: "Personas que no se consideran técnicas, pero se motivan por resultados visibles y experimentación guiada." }
     }
 
     function renderList(items) {
       return `<ul class="clean">${items.map((item) => `<li>${cleanText(item)}</li>`).join("")}</ul>`;
-    }
+              note: "El plan siguiente asume un lanzamiento continuo en junio de 2026 y puede repetirse cada año con ejemplos, casos y builds renovados.",
 
-    function renderExecutive() {
+              weeklyTableHeaders: ["Día", "Hora", "Formato", "Modo", "Precio"],
       const data = cleanValue(copy[state.lang]);
       const block = data.executive;
       return `
-        <div class="hero">
-          <div class="hero-grid">
+                ["Miércoles", "7:00 PM - 8:00 PM", "Case Studies", "Online", "10€"],
+                ["Miércoles", "10:00 PM - 12:00 AM", "Case Studies", "Online", "10€"],
             <div>
               <div class="eyebrow">${block.heroEyebrow}</div>
               <h1>${block.heroTitle}</h1>
-              <p class="lead">${block.heroLead}</p>
+              pricingTitle: "Tabla de precios y política",
               <div class="pill-row" style="margin-top:20px;">
                 ${data.common.quickFacts.map((fact) => `<span class="pill">${fact}</span>`).join("")}
               </div>
-              <div class="hero-kpis">
+                ["Entrada Case Study", "Una clase del miércoles, online", "10€", "No reembolsable; la ausencia no es reembolsable."],
                 ${block.kpis.map((kpi) => `
-                  <div class="kpi">
-                    <strong>${kpi.value}</strong>
+                ["Pase semanal", "Cualquier combinación de clases dentro de una misma semana", "25€", "La mejor opción para una inmersión completa durante toda la semana."],
+                ["Política por cancelación del instructor", "Aplicable a cualquier clase cancelada", "Reembolso del 50%", "Si la persona instructora cancela la clase, se devuelve el 50% del importe pagado."]
                     <span>${kpi.label}</span>
-                  </div>
+              audienceTitle: "Audiencia objetivo por intención",
                 `).join("")}
               </div>
-            </div>
+                "Profesionales que quieren ver casos de uso prácticos antes de invertir en herramientas o formaciones mayores.",
             <div class="hero-side">
               ${block.sideCards.map((card) => `
                 <div class="info-card">
                   <h3>${card.title}</h3>
-                  <p>${card.body}</p>
+              calendarNote: "Cada semana usa un tema muy reconocible. Discovery introduce cuatro usos de ejemplo, Case Studies aporta cuatro ejemplos medibles y Workshop convierte el tema en una app o clon práctico.",
                 </div>
               `).join("")}
             </div>
-          </div>
+              weekCols: ["Destacados de Discovery", "Ángulos de casos", "Construcción del workshop"]
         </div>
 
-        <div class="panel">
-          <div class="section-header">
+              title: "Curricula y estructura detallada de clase",
+              note: "Los planes de clase mantienen un ritmo constante mientras adaptan los ejemplos y el reto de construcción al tema semanal.",
             <div>
               <h2 class="section-title">${block.outcomesTitle}</h2>
             </div>
-            <div class="section-note muted">${block.outcomesNote}</div>
-          </div>
+                  subtitle: "Generar confianza rápida para principiantes",
+                  summary: "Discovery es la puerta de entrada accesible. Muestra lo que la IA moderna puede hacer por personas corrientes en contextos corrientes sin asumir conocimiento técnico.",
           <div class="grid-2">
-            <div class="info-card">
-              ${renderList(block.outcomes)}
+                    "Bienvenida, marco de la semana y una Q&A rápida o quiz lúdico sobre madurez en IA.",
+                    "Introducción a cuatro muestras del tema que enseñan usos innovadores pero prácticos de la IA para personas no técnicas.",
             </div>
-            <div class="info-card">
-              <h3>${block.principlesTitle}</h3>
+                    "Quiz y conversación sobre cómo resolverían un reto similar.",
+                    "Cierre con consejos, recursos online, revistas de IA recomendadas y puente hacia los casos del miércoles."
               ${renderList(block.principles)}
             </div>
           </div>
         </div>
 
         <div class="panel">
-          <div class="section-header">
+                  summary: "Case Studies traduce la curiosidad en credibilidad. Muestra situaciones recientes de empresa, ONG, pyme y educación donde la IA entregó ganancias medibles.",
             <h2 class="section-title">${block.audienceTitle}</h2>
-            <div class="section-note muted">${data.common.scheduleSummary}</div>
-          </div>
-          <div class="grid-4">
-            ${block.audienceCards.map((card) => `
-              <div class="info-card">
+                    "Bienvenida, toma de pulso rápida y un breve quiz sobre hábitos o supuestos actuales en IA.",
+                    "Introducción a cuatro escenarios recientes y reales con contexto claro y beneficios medibles.",
+                    "Para cada caso: el reto inicial, las consecuencias de no actuar, las alternativas sin IA con análisis coste-beneficio, la pila de IA usada, los prompts y la lógica agentica, las correcciones de alucinaciones y el resultado final.",
+                    "Discusión de riesgos de mal uso, riesgo reputacional, preocupaciones de gobernanza y controles de calidad.",
+                    "Cierre con lectura adicional, playbooks del instructor, recomendaciones de siguiente paso y transición hacia el build del viernes."
                 <h3>${card.title}</h3>
-                <p>${card.body}</p>
+                  outcomes: ["Generar confianza", "Mostrar ROI", "Enseñar evaluación", "Normalizar el control de calidad"]
               </div>
             `).join("")}
           </div>
-        </div>
-      `;
+                  subtitle: "Construir un proyecto funcional dentro de clase",
+                  summary: "El workshop es donde los principiantes se convierten en personas constructoras. Cada semana la clase crea una app ligera, un clon o una herramienta operativa alrededor del tema semanal.",
     }
-
-    function renderWeeklyTable(headers, rows) {
-      return `
-        <div class="table-wrap">
-          <table class="responsive-table">
+                    "Bienvenida, breve Q&A e introducción a la solución práctica que se construirá en la sesión.",
+                    "Revisión del reto y de por qué la IA es útil para esta tarea.",
+                    "El método: por qué importa este build, qué herramientas y agentes se necesitan, cómo se estructuran los prompts y qué debe comprobarse para reducir alucinaciones y llegar a un resultado útil.",
+                    "Construcción en vivo, pruebas incrementales, pulido y orientación simple para publicar o compartir.",
+                    "Cierre con revisión final, buenas prácticas, recursos e ideas para extender el build después de clase."
             <thead>
               <tr>${headers.map((header) => `<th>${cleanText(header)}</th>`).join("")}</tr>
             </thead>
             <tbody>
-              ${rows.map((row) => `<tr>${row.map((cell, index) => `<td data-label="${cleanText(headers[index])}">${cleanText(cell)}</td>`).join("")}</tr>`).join("")}
+              teachingTitle: "Mecánica docente común a todos los formatos",
             </tbody>
-          </table>
-        </div>
-      `;
+                "Cada sesión empieza con interacción para medir madurez y mantener la sala activa en lugar de pasiva.",
+                "Los ejemplos se eligen por puntos de presión muy reconocibles: velocidad, coste, carga administrativa, calidad del servicio y claridad de comunicación.",
+                "Cada historia de éxito con IA se acompaña de limitaciones, controles de calidad y una conversación realista sobre mal uso.",
     }
 
     function renderScheduleMonth(monthIndex) {
       const data = cleanValue(copy[state.lang]);
-      const monthWeeks = schedule.filter((week) => week.month === monthIndex).map((week) => cleanValue(week));
-      return `
+              title: "Detalles técnicos y stack de implementación",
+              note: "El stack se mantiene intencionalmente ligero. La idea no es abrumar a principiantes, sino ayudarles a completar trabajo creíble y desplegable en una sola sesión.",
         <article class="month-card ${monthIndex === 0 ? "open" : ""}">
           <div class="month-head">
             <div>
-              <div class="eyebrow">${data.common.scheduleSummary}</div>
+                  body: "ChatGPT, Claude, Gemini o Microsoft Copilot para prompting, redacción, comparación y crítica. El modelo docente es agnóstico respecto a la herramienta para adaptarse al asistente que cada estudiante ya utiliza."
               <h3>${cleanText(months[state.lang][monthIndex])}</h3>
             </div>
-            <div class="month-actions">
+                  title: "Capa de construcción",
               <span class="pill">${monthWeeks.length} ${data.common.monthlyThemes}</span>
               <button class="month-toggle ${monthIndex === 0 ? "open" : ""}">${monthIndex === 0 ? data.structure.monthToggleClose : data.structure.monthToggleOpen}</button>
             </div>
-          </div>
-          <div class="month-body">
+                  title: "Capa de publicación",
+                  body: "Vercel, Netlify, Replit Deployments, enlaces de Glide, publicación de Notion, Google Drive y enlaces de Canva. Cada workshop termina con un camino claro hacia compartir o desplegar el resultado."
             ${monthWeeks.map((item) => `
               <div class="week-card">
                 <div class="week-label">${data.structure.weekLabel} ${item.week}</div>
-                <div class="week-content">
+                  body: "Checklists de prompts, detección de alucinaciones, verificación de fuentes, revisión manual, revisión entre pares y criterios de aceptación simples. Se enseña que la calidad depende de la disciplina del proceso, no solo del modelo."
                   <h4>${cleanText(item.theme[state.lang])}</h4>
                   <div class="week-columns">
                     <div>
-                      <strong>${data.structure.weekCols[0]}</strong>
+              headers: ["Tipo de clase", "Objetivo principal", "Herramientas recomendadas", "Preparación del instructor", "Salida del estudiante"],
                       ${renderTags(item.discovery[state.lang])}
-                    </div>
-                    <div>
+                ["Discovery", "Inspiración más criterio", "ChatGPT o Copilot, Perplexity, Canva, Mentimeter o Kahoot", "Preparar cuatro prompts temáticos, un quiz, una checklist de errores y un paquete corto de recursos", "Ejemplos de prompts, notas de tema y una lista personal de ideas para primeros usos"],
+                ["Case Study", "Credibilidad más valor medible", "ChatGPT o Claude, Perplexity, Notion, Canva, Airtable o Sheets", "Preparar cuatro casos documentados, notas de ROI, cadenas de prompts y comentarios de riesgo", "Desgloses de casos, plantillas de control de calidad y preguntas de evaluación repetibles"],
                       <strong>${data.structure.weekCols[1]}</strong>
                       ${renderTags(item.cases[state.lang])}
                     </div>
                     <div>
-                      <strong>${data.structure.weekCols[2]}</strong>
+                "Un deck multilingüe por semana con versiones en inglés, francés y español alineadas sobre los mismos ejemplos.",
                       <div class="tool-card">
-                        <p>${cleanText(item.workshop[state.lang])}</p>
+                "Una rúbrica estándar de calidad: claridad, utilidad, riesgo factual, riesgo de marca, privacidad y desplegabilidad.",
                       </div>
-                    </div>
+                "Un embudo simple de asistencia y conversión desde Discovery hacia Case Study, Workshop y pase semanal."
                   </div>
-                </div>
+              buildTitle: "Patrón de implementación del workshop",
               </div>
-            `).join("")}
+                "Partir de un problema de uso único anclado en el tema de la semana.",
           </div>
-        </article>
+                "Generar una primera versión funcional rápidamente y dedicar la mayor parte de la sesión al refinamiento y la QA.",
       `;
-    }
+                "Publicar una versión ligera y mostrar al alumnado cómo evolucionarla después de clase."
 
     function renderStructure() {
       const data = cleanValue(copy[state.lang]);
-      const block = data.structure;
-      return `
+              title: "Textos de presentación en tres párrafos",
+              note: "Escritos para sonar atractivos y creíbles en LinkedIn, captions de Instagram, outreach por email o presentación oral, sin inflar el mensaje.",
         <div class="panel">
           <div class="section-header">
             <div>
               <div class="eyebrow">${block.weeklyTitle}</div>
-              <h2 class="section-title">${block.title}</h2>
-            </div>
-            <div class="section-note muted">${block.note}</div>
+                    "La inteligencia artificial se ha vuelto imposible de ignorar, pero para muchas personas sigue pareciendo abstracta, intimidante o exagerada. Este programa de masterclass está construido para principiantes absolutos que quieren una entrada práctica. En lugar de jerga técnica, usa situaciones familiares del trabajo, la vida personal, la educación y las pequeñas organizaciones para mostrar dónde la IA realmente ahorra tiempo, mejora la calidad y abre nuevas ideas.",
+                    "Cada semana está estructurada como una progresión. El lunes, Discovery hace que el tema sea fácil de entender; el miércoles, Case Studies muestra dónde la IA ya produjo resultados medibles; y el viernes, Workshop convierte el aprendizaje en una construcción real. La meta no es solo hablar de IA. La meta es ayudar a las personas a salir de clase habiendo creado algo útil con ella.",
+                    "El resultado es un programa serio sin sentirse pesado. Las personas participantes ganan confianza, criterio y producción práctica al mismo tiempo. Ya sea para mejorar su perfil profesional, optimizar un workflow, lanzar un proyecto paralelo o simplemente dejar de sentirse rezagadas, este curso les da un camino claro y creíble."
           </div>
           <div class="grid-2">
             <div>
               ${renderWeeklyTable(block.weeklyTableHeaders, block.weeklyRows)}
             </div>
-            <div>
-              <div class="info-card" style="height:100%;">
-                <h3>${block.pricingTitle}</h3>
+                    "Discovery es la forma más fácil de entrar al programa. Está pensado para personas curiosas por la IA que todavía no saben dónde encaja en su vida diaria o en su trabajo. Cada sesión presenta cuatro usos modernos, creativos y muy cercanos de la IA en lenguaje claro, sin necesidad de base técnica.",
+                    "En lugar de presentar la IA como magia, Discovery muestra primero el reto y después compara alternativas tradicionales con enfoques asistidos por IA. El alumnado aprende qué funciona, qué no funciona, qué puede salir mal y cómo pensar con más claridad sobre valor, calidad y límites.",
+                    "Al terminar la hora, las personas participantes tienen una idea más fuerte de su propio nivel de madurez en IA, una lista corta de herramientas y recursos para explorar, y varias ideas prácticas que pueden probar de inmediato. Es baja presión, alto valor y un primer paso ideal hacia un uso confiado de la IA."
                 ${renderWeeklyTable(block.pricingHeaders, block.pricingRows)}
               </div>
             </div>
           </div>
         </div>
-
-        <div class="panel">
-          <div class="section-header">
+                    "Case Studies es para quienes quieren evidencia, no eslóganes. Cada sesión desglosa cuatro ejemplos recientes y reales procedentes de empresa, ONG, educación y servicios donde la IA resolvió un problema importante y produjo beneficios visibles.",
+                    "El alumnado ve la imagen completa: el reto original, el riesgo de no hacer nada, las alternativas sin IA, la herramienta elegida, los prompts que dieron forma al resultado, los errores que hubo que corregir y la salida final que generó valor. Esto hace que la IA se sienta menos misteriosa y mucho más manejable.",
+                    "Para profesionales, emprendedores y responsables de decisión, estas clases son especialmente útiles porque construyen juicio práctico. Ayudan a reconocer dónde merece la pena usar IA, cómo evitar daño reputacional o resultados débiles y cómo abordar la implementación con más disciplina."
             <h2 class="section-title">${block.audienceTitle}</h2>
             <div class="section-note muted">${block.calendarNote}</div>
           </div>
           <div class="info-card">
             ${renderList(block.audience)}
-          </div>
-        </div>
-
+                    "Workshop es donde la teoría se vuelve tangible. Cada viernes, el alumnado construye una app ligera, un clon o una herramienta operativa inspirada en una necesidad real. La meta no es producir software enterprise perfecto. La meta es demostrar que incluso una persona principiante puede pasar del prompt a un resultado funcional en una sesión guiada.",
+                    "El formato es deliberadamente práctico: por qué importa este build, qué herramientas se necesitan, cómo estructurar los prompts y cómo reducir alucinaciones mientras se mejora la utilidad. El alumnado sigue un método repetible que hace que el proceso se sienta menos aleatorio y mucho más transferible a sus propios proyectos.",
+                    "Suele ser el momento en que la confianza cambia de forma. En vez de solo entender lo que la IA podría hacer, las personas participantes ven lo que ellas mismas pueden hacer con ella. Se van con algo visible, compartible y extensible, que es exactamente lo que hace que el aprendizaje permanezca."
         <div class="panel">
           <div class="section-header">
             <div>
@@ -1760,8 +1830,8 @@
             <div class="section-note muted">${block.calendarNote}</div>
           </div>
           <div class="month-grid">
-            ${months[state.lang].map((_, index) => renderScheduleMonth(index)).join("")}
-          </div>
+              scheduleSummary: "Plan temático rotativo de 12 meses",
+              quickFacts: ["Inglés", "Francés", "Español", "Pensado para principiantes", "Online + presencial", "Builds prácticos"]
         </div>
       `;
     }
@@ -1977,4 +2047,3 @@
     }
 
     renderAll();
-'
