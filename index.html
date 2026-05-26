@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Masterclass Workspace</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700;800&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+  <style>
+    :root { --ink: #172033; --muted: #586174; --card: rgba(255,252,247,.82); --accent: #0e7490; --accent-2: #f97316; --shadow: 0 24px 60px rgba(31,41,55,.14); }
+    * { box-sizing: border-box; }
+    body { margin: 0; min-height: 100vh; font-family: "Manrope", sans-serif; color: var(--ink); background: radial-gradient(circle at top left, rgba(14,116,144,.16), transparent 28%), radial-gradient(circle at bottom right, rgba(249,115,22,.18), transparent 24%), linear-gradient(180deg, #fff9f2 0%, #f3ecdf 100%); }
+    .shell { width: min(calc(100% - 32px), 1100px); margin: 28px auto; }
+    .hero, .card { background: var(--card); border: 1px solid rgba(255,255,255,.72); box-shadow: var(--shadow); border-radius: 28px; backdrop-filter: blur(12px); }
+    .hero { padding: 34px; margin-bottom: 18px; }
+    .hero h1, .card h2 { font-family: "Playfair Display", serif; margin: 0; letter-spacing: -.02em; }
+    .eyebrow { text-transform: uppercase; letter-spacing: .2em; font-size: 11px; font-weight: 800; color: var(--accent); margin-bottom: 8px; }
+    h1 { font-size: clamp(38px, 7vw, 64px); line-height: .98; max-width: 10ch; }
+    p { color: var(--muted); line-height: 1.7; font-size: 16px; }
+    .grid { display: grid; grid-template-columns: repeat(3, minmax(0,1fr)); gap: 18px; }
+    .card { padding: 24px; }
+    .card h2 { font-size: 28px; margin-bottom: 12px; }
+    .actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 16px; }
+    a.button { display: inline-flex; align-items: center; justify-content: center; padding: 12px 16px; border-radius: 999px; text-decoration: none; font-weight: 800; color: white; background: linear-gradient(135deg, var(--accent), #0f766e); }
+    a.button.alt { background: linear-gradient(135deg, var(--accent-2), #ea580c); }
+    ul { list-style: none; padding: 0; margin: 0; display: grid; gap: 10px; color: var(--muted); }
+    li::before { content: ""; display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 10px; background: linear-gradient(135deg, var(--accent), var(--accent-2)); }
+    @media (max-width: 900px) { .grid { grid-template-columns: 1fr; } .hero, .card { border-radius: 22px; } .hero { padding: 24px; } }
+  </style>
+</head>
+<body>
+  <div class="shell">
+    <section class="hero">
+      <div class="eyebrow">Workspace portal</div>
+      <h1>AI Masterclass Sites</h1>
+      <p>This workspace now contains a planning site for the full 12-month program and a separate public website under the commercial brand AI for All / L'IA pour tous / La IA para todos.</p>
+    </section>
+    <section class="grid">
+      <article class="card">
+        <div class="eyebrow">Internal planning</div>
+        <h2>Program Docs</h2>
+        <p>Interactive planning reference with multilingual tabs, pricing, curricula, toolset guidance and the full annual schedule.</p>
+        <div class="actions">
+          <a class="button" href="./program-docs/index.html">Open docs site</a>
+          <a class="button alt" href="./program-docs/print.html">Open print version</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="eyebrow">Public website</div>
+        <h2>Commercial Site</h2>
+        <p>Client-facing multilingual site with commercially oriented copy, elegant media placeholders, registration and audience-specific landing pages.</p>
+        <div class="actions">
+          <a class="button" href="./ai-for-all/index.html">Open public site</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="eyebrow">Audience pages</div>
+        <h2>Targeted URLs</h2>
+        <ul>
+          <li>SMB owners and operators</li>
+          <li>Job seekers and career changers</li>
+          <li>Schools and nonprofits</li>
+          <li>Students</li>
+          <li>Non-technical professionals</li>
+        </ul>
+      </article>
+    </section>
+  </div>
+</body>
+</html>

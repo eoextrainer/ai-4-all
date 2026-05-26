@@ -1,0 +1,75 @@
+body[data-mode="print"] {
+  background: #f6f0e7;
+}
+
+body[data-mode="print"] .print-app {
+  width: min(calc(100% - 28px), 1120px);
+}
+
+body[data-mode="print"] .print-topbar {
+  position: static;
+  margin-bottom: 16px;
+}
+
+body[data-mode="print"] .print-actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  justify-self: end;
+}
+
+body[data-mode="print"] .print-section {
+  break-inside: avoid;
+  page-break-inside: avoid;
+  margin-bottom: 18px;
+}
+
+body[data-mode="print"] .month-card,
+body[data-mode="print"] .panel,
+body[data-mode="print"] .hero {
+  box-shadow: none;
+  background: rgba(255, 255, 255, 0.92);
+}
+
+body[data-mode="print"] .month-body {
+  display: block;
+}
+
+body[data-mode="print"] .month-card .month-toggle,
+body[data-mode="print"] .nav-tabs,
+body[data-mode="print"] .footer-note {
+  display: none;
+}
+
+@page {
+  size: A4 portrait;
+  margin: 12mm;
+}
+
+@media print {
+  body {
+    background: white;
+  }
+
+  .app {
+    width: 100%;
+    margin: 0;
+  }
+
+  .topbar,
+  .hero,
+  .panel,
+  .month-card,
+  .info-card,
+  .class-card,
+  .pitch-card,
+  .tool-card {
+    box-shadow: none !important;
+    background: white !important;
+    backdrop-filter: none !important;
+  }
+
+  .print-actions button:last-child {
+    display: none;
+  }
+}

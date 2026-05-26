@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Masterclass Program Print Version</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700;800&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./assets/styles.css">
+  <link rel="stylesheet" href="./assets/print.css">
+</head>
+<body data-mode="print">
+  <div class="app print-app">
+    <header class="topbar print-topbar">
+      <div class="brand">
+        <div class="brand-mark">AI</div>
+        <div class="brand-copy">
+          <div class="eyebrow" data-i18n="brandEyebrow"></div>
+          <strong data-i18n="brandTitle"></strong>
+        </div>
+      </div>
+      <div class="print-actions">
+        <div class="lang-switch" aria-label="Language switcher">
+          <button class="active" data-lang="en"><span class="flag flag-en"></span>EN</button>
+          <button data-lang="fr"><span class="flag flag-fr"></span>FR</button>
+          <button data-lang="es"><span class="flag flag-es"></span>ES</button>
+        </div>
+        <button class="month-toggle open" type="button" onclick="window.print()">Print / Save PDF</button>
+      </div>
+    </header>
+    <main id="print-root"></main>
+  </div>
+  <script src="./assets/app.js"></script>
+</body>
+</html>
